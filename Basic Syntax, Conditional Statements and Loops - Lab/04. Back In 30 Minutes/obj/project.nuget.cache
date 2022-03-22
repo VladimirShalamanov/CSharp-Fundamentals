@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rv0wPNmbQWhoTWaA5i9NzDyEsWjxby7WdmFS6YlJ6lLJ6v8L+qJ6TEnkSnuU1A55XhaGVOaFJIM4KhP1Q0nnNw==",
+  "success": true,
+  "projectFilePath": "D:\\Документи\\twa onowa\\_SOFTUNI\\Fundamentals\\Basic Syntax, Conditional Statements and Loops - Lab\\04. Back In 30 Minutes\\04. Back In 30 Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
