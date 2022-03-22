@@ -1,0 +1,15 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\bin\Debug\net5.0\4. Print and Sum.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\bin\Debug\net5.0\4. Print and Sum.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\bin\Debug\net5.0\4. Print and Sum.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\bin\Debug\net5.0\4. Print and Sum.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\bin\Debug\net5.0\4. Print and Sum.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\bin\Debug\net5.0\ref\4. Print and Sum.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\bin\Debug\net5.0\4. Print and Sum.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\obj\Debug\net5.0\ref\4. Print and Sum.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.genruntimeconfig.cache

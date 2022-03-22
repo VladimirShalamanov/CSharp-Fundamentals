@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\7. Vending Machine\bin\Debug\net5.0\7. Vending Machine.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\7. Vending Machine\bin\Debug\net5.0\7. Vending Machine.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\7. Vending Machine\bin\Debug\net5.0\7. Vending Machine.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\7. Vending Machine\bin\Debug\net5.0\7. Vending Machine.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\7. Vending Machine\bin\Debug\net5.0\7. Vending Machine.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\7. Vending Machine\bin\Debug\net5.0\ref\7. Vending Machine.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\7. Vending Machine\bin\Debug\net5.0\7. Vending Machine.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\7. Vending Machine\obj\Debug\net5.0\7. Vending Machine.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\7. Vending Machine\obj\Debug\net5.0\7. Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\7. Vending Machine\obj\Debug\net5.0\7. Vending Machine.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\7. Vending Machine\obj\Debug\net5.0\7. Vending Machine.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\7. Vending Machine\obj\Debug\net5.0\7. Vending Machine.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\7. Vending Machine\obj\Debug\net5.0\7. Vending Machine.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\7. Vending Machine\obj\Debug\net5.0\ref\7. Vending Machine.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\7. Vending Machine\obj\Debug\net5.0\7. Vending Machine.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\7. Vending Machine\obj\Debug\net5.0\7. Vending Machine.genruntimeconfig.cache
