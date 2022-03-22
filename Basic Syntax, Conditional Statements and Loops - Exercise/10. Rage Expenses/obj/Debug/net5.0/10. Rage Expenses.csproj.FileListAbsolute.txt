@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\10. Rage Expenses\bin\Debug\net5.0\ref\10. Rage Expenses.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\10. Rage Expenses\obj\Debug\net5.0\ref\10. Rage Expenses.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.genruntimeconfig.cache

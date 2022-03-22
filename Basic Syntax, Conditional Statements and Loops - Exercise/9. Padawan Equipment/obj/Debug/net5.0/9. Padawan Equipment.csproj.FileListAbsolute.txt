@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\9. Padawan Equipment\bin\Debug\net5.0\9. Padawan Equipment.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\9. Padawan Equipment\bin\Debug\net5.0\9. Padawan Equipment.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\9. Padawan Equipment\bin\Debug\net5.0\9. Padawan Equipment.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\9. Padawan Equipment\bin\Debug\net5.0\9. Padawan Equipment.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\9. Padawan Equipment\bin\Debug\net5.0\9. Padawan Equipment.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\9. Padawan Equipment\bin\Debug\net5.0\ref\9. Padawan Equipment.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\9. Padawan Equipment\bin\Debug\net5.0\9. Padawan Equipment.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\9. Padawan Equipment\obj\Debug\net5.0\ref\9. Padawan Equipment.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.genruntimeconfig.cache

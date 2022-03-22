@@ -1,0 +1,15 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\8. Triangle of Numbers\bin\Debug\net5.0\8. Triangle of Numbers.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\8. Triangle of Numbers\bin\Debug\net5.0\8. Triangle of Numbers.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\8. Triangle of Numbers\bin\Debug\net5.0\8. Triangle of Numbers.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\8. Triangle of Numbers\bin\Debug\net5.0\8. Triangle of Numbers.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\8. Triangle of Numbers\bin\Debug\net5.0\8. Triangle of Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\8. Triangle of Numbers\bin\Debug\net5.0\ref\8. Triangle of Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\8. Triangle of Numbers\bin\Debug\net5.0\8. Triangle of Numbers.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\8. Triangle of Numbers\obj\Debug\net5.0\8. Triangle of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\8. Triangle of Numbers\obj\Debug\net5.0\8. Triangle of Numbers.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\8. Triangle of Numbers\obj\Debug\net5.0\8. Triangle of Numbers.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\8. Triangle of Numbers\obj\Debug\net5.0\8. Triangle of Numbers.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\8. Triangle of Numbers\obj\Debug\net5.0\8. Triangle of Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\8. Triangle of Numbers\obj\Debug\net5.0\ref\8. Triangle of Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\8. Triangle of Numbers\obj\Debug\net5.0\8. Triangle of Numbers.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\8. Triangle of Numbers\obj\Debug\net5.0\8. Triangle of Numbers.genruntimeconfig.cache
