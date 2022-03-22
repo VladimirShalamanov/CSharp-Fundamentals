@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\3. Vacationv\bin\Debug\net5.0\3. Vacationv.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\3. Vacationv\bin\Debug\net5.0\3. Vacationv.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\3. Vacationv\bin\Debug\net5.0\3. Vacationv.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\3. Vacationv\bin\Debug\net5.0\3. Vacationv.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\3. Vacationv\bin\Debug\net5.0\3. Vacationv.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\3. Vacationv\bin\Debug\net5.0\ref\3. Vacationv.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\3. Vacationv\bin\Debug\net5.0\3. Vacationv.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\3. Vacationv\obj\Debug\net5.0\3. Vacationv.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\3. Vacationv\obj\Debug\net5.0\3. Vacationv.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\3. Vacationv\obj\Debug\net5.0\3. Vacationv.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\3. Vacationv\obj\Debug\net5.0\3. Vacationv.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\3. Vacationv\obj\Debug\net5.0\3. Vacationv.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\3. Vacationv\obj\Debug\net5.0\3. Vacationv.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\3. Vacationv\obj\Debug\net5.0\ref\3. Vacationv.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\3. Vacationv\obj\Debug\net5.0\3. Vacationv.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\3. Vacationv\obj\Debug\net5.0\3. Vacationv.genruntimeconfig.cache

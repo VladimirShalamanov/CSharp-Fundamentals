@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\bin\Debug\net5.0\1. Ages.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\bin\Debug\net5.0\1. Ages.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\bin\Debug\net5.0\1. Ages.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\bin\Debug\net5.0\1. Ages.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\bin\Debug\net5.0\1. Ages.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\bin\Debug\net5.0\ref\1. Ages.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\bin\Debug\net5.0\1. Ages.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\obj\Debug\net5.0\1. Ages.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\obj\Debug\net5.0\1. Ages.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\obj\Debug\net5.0\1. Ages.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\obj\Debug\net5.0\1. Ages.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\obj\Debug\net5.0\1. Ages.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\obj\Debug\net5.0\1. Ages.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\obj\Debug\net5.0\ref\1. Ages.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\obj\Debug\net5.0\1. Ages.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\obj\Debug\net5.0\1. Ages.genruntimeconfig.cache
