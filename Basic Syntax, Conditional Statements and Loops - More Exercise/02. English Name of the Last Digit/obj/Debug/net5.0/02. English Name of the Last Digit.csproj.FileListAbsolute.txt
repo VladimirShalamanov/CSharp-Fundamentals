@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\02. English Name of the Last Digit\bin\Debug\net5.0\02. English Name of the Last Digit.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\02. English Name of the Last Digit\bin\Debug\net5.0\02. English Name of the Last Digit.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\02. English Name of the Last Digit\bin\Debug\net5.0\02. English Name of the Last Digit.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\02. English Name of the Last Digit\bin\Debug\net5.0\02. English Name of the Last Digit.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\02. English Name of the Last Digit\bin\Debug\net5.0\02. English Name of the Last Digit.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\02. English Name of the Last Digit\bin\Debug\net5.0\ref\02. English Name of the Last Digit.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\02. English Name of the Last Digit\bin\Debug\net5.0\02. English Name of the Last Digit.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\02. English Name of the Last Digit\obj\Debug\net5.0\ref\02. English Name of the Last Digit.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\02. English Name of the Last Digit\obj\Debug\net5.0\02. English Name of the Last Digit.genruntimeconfig.cache

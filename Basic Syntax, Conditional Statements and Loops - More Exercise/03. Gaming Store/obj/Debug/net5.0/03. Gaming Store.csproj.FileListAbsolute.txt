@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\03. Gaming Store\bin\Debug\net5.0\ref\03. Gaming Store.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\03. Gaming Store\bin\Debug\net5.0\03. Gaming Store.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\03. Gaming Store\obj\Debug\net5.0\ref\03. Gaming Store.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\03. Gaming Store\obj\Debug\net5.0\03. Gaming Store.genruntimeconfig.cache

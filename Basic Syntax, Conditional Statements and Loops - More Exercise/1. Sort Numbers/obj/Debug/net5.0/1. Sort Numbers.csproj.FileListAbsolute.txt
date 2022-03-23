@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\1. Sort Numbers\bin\Debug\net5.0\1. Sort Numbers.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\1. Sort Numbers\bin\Debug\net5.0\1. Sort Numbers.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\1. Sort Numbers\bin\Debug\net5.0\1. Sort Numbers.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\1. Sort Numbers\bin\Debug\net5.0\1. Sort Numbers.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\1. Sort Numbers\bin\Debug\net5.0\1. Sort Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\1. Sort Numbers\bin\Debug\net5.0\ref\1. Sort Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\1. Sort Numbers\bin\Debug\net5.0\1. Sort Numbers.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\1. Sort Numbers\obj\Debug\net5.0\1. Sort Numbers.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\1. Sort Numbers\obj\Debug\net5.0\1. Sort Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\1. Sort Numbers\obj\Debug\net5.0\1. Sort Numbers.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\1. Sort Numbers\obj\Debug\net5.0\1. Sort Numbers.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\1. Sort Numbers\obj\Debug\net5.0\1. Sort Numbers.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\1. Sort Numbers\obj\Debug\net5.0\1. Sort Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\1. Sort Numbers\obj\Debug\net5.0\ref\1. Sort Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\1. Sort Numbers\obj\Debug\net5.0\1. Sort Numbers.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\1. Sort Numbers\obj\Debug\net5.0\1. Sort Numbers.genruntimeconfig.cache
