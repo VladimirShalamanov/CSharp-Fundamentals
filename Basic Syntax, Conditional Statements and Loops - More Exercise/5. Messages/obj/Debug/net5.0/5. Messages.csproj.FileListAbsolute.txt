@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\5. Messages\bin\Debug\net5.0\5. Messages.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\5. Messages\bin\Debug\net5.0\5. Messages.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\5. Messages\bin\Debug\net5.0\5. Messages.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\5. Messages\bin\Debug\net5.0\5. Messages.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\5. Messages\bin\Debug\net5.0\5. Messages.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\5. Messages\bin\Debug\net5.0\ref\5. Messages.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\5. Messages\bin\Debug\net5.0\5. Messages.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\5. Messages\obj\Debug\net5.0\5. Messages.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\5. Messages\obj\Debug\net5.0\5. Messages.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\5. Messages\obj\Debug\net5.0\5. Messages.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\5. Messages\obj\Debug\net5.0\5. Messages.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\5. Messages\obj\Debug\net5.0\5. Messages.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\5. Messages\obj\Debug\net5.0\5. Messages.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\5. Messages\obj\Debug\net5.0\ref\5. Messages.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\5. Messages\obj\Debug\net5.0\5. Messages.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\5. Messages\obj\Debug\net5.0\5. Messages.genruntimeconfig.cache

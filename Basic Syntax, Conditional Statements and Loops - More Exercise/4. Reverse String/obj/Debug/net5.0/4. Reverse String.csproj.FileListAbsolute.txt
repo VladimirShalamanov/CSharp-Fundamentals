@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\4. Reverse String\bin\Debug\net5.0\4. Reverse String.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\4. Reverse String\bin\Debug\net5.0\4. Reverse String.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\4. Reverse String\bin\Debug\net5.0\4. Reverse String.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\4. Reverse String\bin\Debug\net5.0\4. Reverse String.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\4. Reverse String\bin\Debug\net5.0\4. Reverse String.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\4. Reverse String\bin\Debug\net5.0\ref\4. Reverse String.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\4. Reverse String\bin\Debug\net5.0\4. Reverse String.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\4. Reverse String\obj\Debug\net5.0\4. Reverse String.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\4. Reverse String\obj\Debug\net5.0\4. Reverse String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\4. Reverse String\obj\Debug\net5.0\4. Reverse String.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\4. Reverse String\obj\Debug\net5.0\4. Reverse String.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\4. Reverse String\obj\Debug\net5.0\4. Reverse String.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\4. Reverse String\obj\Debug\net5.0\4. Reverse String.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\4. Reverse String\obj\Debug\net5.0\ref\4. Reverse String.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\4. Reverse String\obj\Debug\net5.0\4. Reverse String.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - (C) Intro and Basic Syntax\4. Reverse String\obj\Debug\net5.0\4. Reverse String.genruntimeconfig.cache
