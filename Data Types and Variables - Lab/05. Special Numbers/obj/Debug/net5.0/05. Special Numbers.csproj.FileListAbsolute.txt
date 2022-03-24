@@ -1,0 +1,15 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\05. Special Numbers\bin\Debug\net5.0\ref\05. Special Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\05. Special Numbers\obj\Debug\net5.0\ref\05. Special Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\09. Chars to String\bin\Debug\net5.0\09. Chars to String.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\09. Chars to String\bin\Debug\net5.0\09. Chars to String.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\09. Chars to String\bin\Debug\net5.0\09. Chars to String.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\09. Chars to String\bin\Debug\net5.0\09. Chars to String.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\09. Chars to String\bin\Debug\net5.0\09. Chars to String.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\09. Chars to String\bin\Debug\net5.0\ref\09. Chars to String.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\09. Chars to String\bin\Debug\net5.0\09. Chars to String.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\09. Chars to String\obj\Debug\net5.0\09. Chars to String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\09. Chars to String\obj\Debug\net5.0\09. Chars to String.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\09. Chars to String\obj\Debug\net5.0\09. Chars to String.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\09. Chars to String\obj\Debug\net5.0\09. Chars to String.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\09. Chars to String\obj\Debug\net5.0\09. Chars to String.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\09. Chars to String\obj\Debug\net5.0\ref\09. Chars to String.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\09. Chars to String\obj\Debug\net5.0\09. Chars to String.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\09. Chars to String\obj\Debug\net5.0\09. Chars to String.genruntimeconfig.cache
