@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\04. Centuries to Minutes\bin\Debug\net5.0\ref\04. Centuries to Minutes.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\04. Centuries to Minutes\obj\Debug\net5.0\ref\04. Centuries to Minutes.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.genruntimeconfig.cache

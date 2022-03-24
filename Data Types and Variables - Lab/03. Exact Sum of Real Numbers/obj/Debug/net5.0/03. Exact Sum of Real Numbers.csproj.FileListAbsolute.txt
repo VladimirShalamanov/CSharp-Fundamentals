@@ -1,0 +1,15 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\net5.0\ref\03. Exact Sum of Real Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\net5.0\ref\03. Exact Sum of Real Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.genruntimeconfig.cache

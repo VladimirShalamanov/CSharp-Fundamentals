@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\1. Convert Meters to Kilometers\bin\Debug\net5.0\1. Convert Meters to Kilometers.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\1. Convert Meters to Kilometers\bin\Debug\net5.0\1. Convert Meters to Kilometers.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\1. Convert Meters to Kilometers\bin\Debug\net5.0\1. Convert Meters to Kilometers.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\1. Convert Meters to Kilometers\bin\Debug\net5.0\1. Convert Meters to Kilometers.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\1. Convert Meters to Kilometers\bin\Debug\net5.0\1. Convert Meters to Kilometers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\1. Convert Meters to Kilometers\bin\Debug\net5.0\ref\1. Convert Meters to Kilometers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\1. Convert Meters to Kilometers\bin\Debug\net5.0\1. Convert Meters to Kilometers.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\1. Convert Meters to Kilometers\obj\Debug\net5.0\1. Convert Meters to Kilometers.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\1. Convert Meters to Kilometers\obj\Debug\net5.0\1. Convert Meters to Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\1. Convert Meters to Kilometers\obj\Debug\net5.0\1. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\1. Convert Meters to Kilometers\obj\Debug\net5.0\1. Convert Meters to Kilometers.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\1. Convert Meters to Kilometers\obj\Debug\net5.0\1. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\1. Convert Meters to Kilometers\obj\Debug\net5.0\1. Convert Meters to Kilometers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\1. Convert Meters to Kilometers\obj\Debug\net5.0\ref\1. Convert Meters to Kilometers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\1. Convert Meters to Kilometers\obj\Debug\net5.0\1. Convert Meters to Kilometers.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Data Types and Variables\1. Convert Meters to Kilometers\obj\Debug\net5.0\1. Convert Meters to Kilometers.genruntimeconfig.cache
