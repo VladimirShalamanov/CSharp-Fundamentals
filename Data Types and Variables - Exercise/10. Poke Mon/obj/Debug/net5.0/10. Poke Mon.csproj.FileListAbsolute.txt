@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\10. Poke Mon\bin\Debug\net5.0\ref\10. Poke Mon.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\10. Poke Mon\obj\Debug\net5.0\ref\10. Poke Mon.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.genruntimeconfig.cache
