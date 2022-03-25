@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\1. Integer Operations\bin\Debug\net5.0\1. Integer Operations.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\1. Integer Operations\bin\Debug\net5.0\1. Integer Operations.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\1. Integer Operations\bin\Debug\net5.0\1. Integer Operations.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\1. Integer Operations\bin\Debug\net5.0\1. Integer Operations.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\1. Integer Operations\bin\Debug\net5.0\1. Integer Operations.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\1. Integer Operations\bin\Debug\net5.0\ref\1. Integer Operations.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\1. Integer Operations\bin\Debug\net5.0\1. Integer Operations.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\1. Integer Operations\obj\Debug\net5.0\ref\1. Integer Operations.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.genruntimeconfig.cache
