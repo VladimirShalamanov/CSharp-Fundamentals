@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\09. Spice Must Flow\bin\Debug\net5.0\09. Spice Must Flow.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\09. Spice Must Flow\bin\Debug\net5.0\09. Spice Must Flow.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\09. Spice Must Flow\bin\Debug\net5.0\09. Spice Must Flow.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\09. Spice Must Flow\bin\Debug\net5.0\09. Spice Must Flow.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\09. Spice Must Flow\bin\Debug\net5.0\09. Spice Must Flow.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\09. Spice Must Flow\bin\Debug\net5.0\ref\09. Spice Must Flow.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\09. Spice Must Flow\bin\Debug\net5.0\09. Spice Must Flow.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\09. Spice Must Flow\obj\Debug\net5.0\ref\09. Spice Must Flow.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.genruntimeconfig.cache
