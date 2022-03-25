@@ -1,0 +1,15 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\05. Print Part Of ASCII Table\bin\Debug\net5.0\ref\05. Print Part Of ASCII Table.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\net5.0\ref\05. Print Part Of ASCII Table.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.genruntimeconfig.cache

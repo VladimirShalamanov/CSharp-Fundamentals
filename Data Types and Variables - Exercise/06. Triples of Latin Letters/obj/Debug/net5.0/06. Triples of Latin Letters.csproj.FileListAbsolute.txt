@@ -1,0 +1,15 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\06. Triples of Latin Letters\bin\Debug\net5.0\ref\06. Triples of Latin Letters.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\06. Triples of Latin Letters\obj\Debug\net5.0\ref\06. Triples of Latin Letters.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Data Types and Variables\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.genruntimeconfig.cache
