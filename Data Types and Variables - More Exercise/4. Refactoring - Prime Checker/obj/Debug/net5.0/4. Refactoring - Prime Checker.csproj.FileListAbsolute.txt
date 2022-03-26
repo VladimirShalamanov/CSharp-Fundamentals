@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\4. Refactoring - Prime Checker\bin\Debug\net5.0\4. Refactoring - Prime Checker.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\4. Refactoring - Prime Checker\bin\Debug\net5.0\4. Refactoring - Prime Checker.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\4. Refactoring - Prime Checker\bin\Debug\net5.0\4. Refactoring - Prime Checker.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\4. Refactoring - Prime Checker\bin\Debug\net5.0\4. Refactoring - Prime Checker.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\4. Refactoring - Prime Checker\bin\Debug\net5.0\4. Refactoring - Prime Checker.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\4. Refactoring - Prime Checker\bin\Debug\net5.0\ref\4. Refactoring - Prime Checker.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\4. Refactoring - Prime Checker\bin\Debug\net5.0\4. Refactoring - Prime Checker.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\4. Refactoring - Prime Checker\obj\Debug\net5.0\4. Refactoring - Prime Checker.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\4. Refactoring - Prime Checker\obj\Debug\net5.0\4. Refactoring - Prime Checker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\4. Refactoring - Prime Checker\obj\Debug\net5.0\4. Refactoring - Prime Checker.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\4. Refactoring - Prime Checker\obj\Debug\net5.0\4. Refactoring - Prime Checker.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\4. Refactoring - Prime Checker\obj\Debug\net5.0\4. Refactoring - Prime Checker.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\4. Refactoring - Prime Checker\obj\Debug\net5.0\4. Refactoring - Prime Checker.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\4. Refactoring - Prime Checker\obj\Debug\net5.0\ref\4. Refactoring - Prime Checker.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\4. Refactoring - Prime Checker\obj\Debug\net5.0\4. Refactoring - Prime Checker.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\4. Refactoring - Prime Checker\obj\Debug\net5.0\4. Refactoring - Prime Checker.genruntimeconfig.cache

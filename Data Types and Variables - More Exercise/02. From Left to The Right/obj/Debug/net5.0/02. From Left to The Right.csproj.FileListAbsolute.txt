@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\02. From Left to The Right\bin\Debug\net5.0\ref\02. From Left to The Right.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\02. From Left to The Right\obj\Debug\net5.0\ref\02. From Left to The Right.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.genruntimeconfig.cache
