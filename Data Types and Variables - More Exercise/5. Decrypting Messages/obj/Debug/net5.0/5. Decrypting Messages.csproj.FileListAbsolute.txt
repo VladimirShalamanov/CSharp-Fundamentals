@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\5. Decrypting Messages\bin\Debug\net5.0\5. Decrypting Messages.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\5. Decrypting Messages\bin\Debug\net5.0\5. Decrypting Messages.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\5. Decrypting Messages\bin\Debug\net5.0\5. Decrypting Messages.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\5. Decrypting Messages\bin\Debug\net5.0\5. Decrypting Messages.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\5. Decrypting Messages\bin\Debug\net5.0\5. Decrypting Messages.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\5. Decrypting Messages\bin\Debug\net5.0\ref\5. Decrypting Messages.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\5. Decrypting Messages\bin\Debug\net5.0\5. Decrypting Messages.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\5. Decrypting Messages\obj\Debug\net5.0\5. Decrypting Messages.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\5. Decrypting Messages\obj\Debug\net5.0\5. Decrypting Messages.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\5. Decrypting Messages\obj\Debug\net5.0\5. Decrypting Messages.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\5. Decrypting Messages\obj\Debug\net5.0\5. Decrypting Messages.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\5. Decrypting Messages\obj\Debug\net5.0\5. Decrypting Messages.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\5. Decrypting Messages\obj\Debug\net5.0\5. Decrypting Messages.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\5. Decrypting Messages\obj\Debug\net5.0\ref\5. Decrypting Messages.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\5. Decrypting Messages\obj\Debug\net5.0\5. Decrypting Messages.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Data Types and Variables\5. Decrypting Messages\obj\Debug\net5.0\5. Decrypting Messages.genruntimeconfig.cache
