@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\Arrays - Lab\bin\Debug\net5.0\Arrays - Lab.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\Arrays - Lab\bin\Debug\net5.0\Arrays - Lab.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\Arrays - Lab\bin\Debug\net5.0\Arrays - Lab.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\Arrays - Lab\bin\Debug\net5.0\Arrays - Lab.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\Arrays - Lab\bin\Debug\net5.0\Arrays - Lab.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\Arrays - Lab\bin\Debug\net5.0\ref\Arrays - Lab.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\Arrays - Lab\bin\Debug\net5.0\Arrays - Lab.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\Arrays - Lab\obj\Debug\net5.0\Arrays - Lab.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\Arrays - Lab\obj\Debug\net5.0\Arrays - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\Arrays - Lab\obj\Debug\net5.0\Arrays - Lab.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\Arrays - Lab\obj\Debug\net5.0\Arrays - Lab.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\Arrays - Lab\obj\Debug\net5.0\Arrays - Lab.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\Arrays - Lab\obj\Debug\net5.0\Arrays - Lab.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\Arrays - Lab\obj\Debug\net5.0\ref\Arrays - Lab.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\Arrays - Lab\obj\Debug\net5.0\Arrays - Lab.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\Arrays - Lab\obj\Debug\net5.0\Arrays - Lab.genruntimeconfig.cache
