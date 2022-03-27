@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\04. Reverse Array of Strings\bin\Debug\net5.0\ref\04. Reverse Array of Strings.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\04. Reverse Array of Strings\obj\Debug\net5.0\ref\04. Reverse Array of Strings.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.genruntimeconfig.cache

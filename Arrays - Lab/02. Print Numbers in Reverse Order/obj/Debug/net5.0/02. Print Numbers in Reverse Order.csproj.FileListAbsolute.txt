@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\02. Print Numbers in Reverse Order\bin\Debug\net5.0\ref\02. Print Numbers in Reverse Order.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\02. Print Numbers in Reverse Order\obj\Debug\net5.0\ref\02. Print Numbers in Reverse Order.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.genruntimeconfig.cache
