@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\06. Even and Odd Subtraction\bin\Debug\net5.0\06. Even and Odd Subtraction.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\06. Even and Odd Subtraction\bin\Debug\net5.0\06. Even and Odd Subtraction.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\06. Even and Odd Subtraction\bin\Debug\net5.0\06. Even and Odd Subtraction.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\06. Even and Odd Subtraction\bin\Debug\net5.0\06. Even and Odd Subtraction.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\06. Even and Odd Subtraction\bin\Debug\net5.0\06. Even and Odd Subtraction.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\06. Even and Odd Subtraction\bin\Debug\net5.0\ref\06. Even and Odd Subtraction.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\06. Even and Odd Subtraction\bin\Debug\net5.0\06. Even and Odd Subtraction.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\06. Even and Odd Subtraction\obj\Debug\net5.0\ref\06. Even and Odd Subtraction.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\06. Even and Odd Subtraction\obj\Debug\net5.0\06. Even and Odd Subtraction.genruntimeconfig.cache

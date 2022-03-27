@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\07. Equal Arrays\bin\Debug\net5.0\ref\07. Equal Arrays.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\07. Equal Arrays\obj\Debug\net5.0\ref\07. Equal Arrays.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Day of Week\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.genruntimeconfig.cache
