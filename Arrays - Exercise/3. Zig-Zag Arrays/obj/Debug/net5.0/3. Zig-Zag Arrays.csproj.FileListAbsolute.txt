@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\3. Zig-Zag Arrays\bin\Debug\net5.0\3. Zig-Zag Arrays.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\3. Zig-Zag Arrays\bin\Debug\net5.0\3. Zig-Zag Arrays.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\3. Zig-Zag Arrays\bin\Debug\net5.0\3. Zig-Zag Arrays.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\3. Zig-Zag Arrays\bin\Debug\net5.0\3. Zig-Zag Arrays.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\3. Zig-Zag Arrays\bin\Debug\net5.0\3. Zig-Zag Arrays.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\3. Zig-Zag Arrays\bin\Debug\net5.0\ref\3. Zig-Zag Arrays.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\3. Zig-Zag Arrays\bin\Debug\net5.0\3. Zig-Zag Arrays.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\3. Zig-Zag Arrays\obj\Debug\net5.0\ref\3. Zig-Zag Arrays.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\3. Zig-Zag Arrays\obj\Debug\net5.0\3. Zig-Zag Arrays.genruntimeconfig.cache

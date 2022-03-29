@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\ref\02. Common Elements.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\ref\02. Common Elements.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.genruntimeconfig.cache
