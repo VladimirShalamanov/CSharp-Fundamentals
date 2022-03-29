@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\ref\04. Array Rotation.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\ref\04. Array Rotation.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.genruntimeconfig.cache
