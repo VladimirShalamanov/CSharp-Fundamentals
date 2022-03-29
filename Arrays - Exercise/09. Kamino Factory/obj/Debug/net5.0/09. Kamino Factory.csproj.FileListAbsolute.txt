@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\09. Kamino Factory\bin\Debug\net5.0\ref\09. Kamino Factory.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\09. Kamino Factory\obj\Debug\net5.0\ref\09. Kamino Factory.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.genruntimeconfig.cache

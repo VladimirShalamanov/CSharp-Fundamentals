@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\net5.0\ref\07. Max Sequence of Equal Elements.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\ref\07. Max Sequence of Equal Elements.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.genruntimeconfig.cache
