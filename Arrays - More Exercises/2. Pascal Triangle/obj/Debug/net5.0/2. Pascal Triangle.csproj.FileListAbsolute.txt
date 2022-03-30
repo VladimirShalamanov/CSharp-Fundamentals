@@ -1,0 +1,32 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\bin\Debug\net5.0\2. Pascal Triangle.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\bin\Debug\net5.0\2. Pascal Triangle.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\bin\Debug\net5.0\2. Pascal Triangle.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\bin\Debug\net5.0\2. Pascal Triangle.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\bin\Debug\net5.0\2. Pascal Triangle.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\bin\Debug\net5.0\ref\2. Pascal Triangle.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\bin\Debug\net5.0\2. Pascal Triangle.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\obj\Debug\net5.0\ref\2. Pascal Triangle.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercises - Arrays\2. Pascal Triangle\bin\Debug\net5.0\2. Pascal Triangle.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercises - Arrays\2. Pascal Triangle\bin\Debug\net5.0\2. Pascal Triangle.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercises - Arrays\2. Pascal Triangle\bin\Debug\net5.0\2. Pascal Triangle.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercises - Arrays\2. Pascal Triangle\bin\Debug\net5.0\2. Pascal Triangle.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercises - Arrays\2. Pascal Triangle\bin\Debug\net5.0\2. Pascal Triangle.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercises - Arrays\2. Pascal Triangle\bin\Debug\net5.0\ref\2. Pascal Triangle.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercises - Arrays\2. Pascal Triangle\bin\Debug\net5.0\2. Pascal Triangle.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercises - Arrays\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercises - Arrays\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercises - Arrays\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercises - Arrays\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercises - Arrays\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercises - Arrays\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercises - Arrays\2. Pascal Triangle\obj\Debug\net5.0\ref\2. Pascal Triangle.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercises - Arrays\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercises - Arrays\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.genruntimeconfig.cache
