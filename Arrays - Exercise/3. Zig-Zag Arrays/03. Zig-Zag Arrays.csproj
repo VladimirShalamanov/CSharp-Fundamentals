@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_Zig_Zag_Arrays</RootNamespace>
+    <RootNamespace>_3._Zig_Zag_Arrays</RootNamespace>
   </PropertyGroup>
 
 </Project>
