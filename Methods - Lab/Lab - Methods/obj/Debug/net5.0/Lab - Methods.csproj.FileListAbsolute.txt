@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\Lab - Methods\bin\Debug\net5.0\Lab - Methods.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\Lab - Methods\bin\Debug\net5.0\Lab - Methods.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\Lab - Methods\bin\Debug\net5.0\Lab - Methods.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\Lab - Methods\bin\Debug\net5.0\Lab - Methods.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\Lab - Methods\bin\Debug\net5.0\Lab - Methods.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\Lab - Methods\bin\Debug\net5.0\ref\Lab - Methods.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\Lab - Methods\bin\Debug\net5.0\Lab - Methods.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\Lab - Methods\obj\Debug\net5.0\Lab - Methods.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\Lab - Methods\obj\Debug\net5.0\Lab - Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\Lab - Methods\obj\Debug\net5.0\Lab - Methods.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\Lab - Methods\obj\Debug\net5.0\Lab - Methods.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\Lab - Methods\obj\Debug\net5.0\Lab - Methods.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\Lab - Methods\obj\Debug\net5.0\Lab - Methods.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\Lab - Methods\obj\Debug\net5.0\ref\Lab - Methods.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\Lab - Methods\obj\Debug\net5.0\Lab - Methods.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\Lab - Methods\obj\Debug\net5.0\Lab - Methods.genruntimeconfig.cache

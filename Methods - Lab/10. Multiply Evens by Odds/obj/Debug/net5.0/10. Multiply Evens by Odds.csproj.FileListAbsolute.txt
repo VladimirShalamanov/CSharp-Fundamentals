@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\10. Multiply Evens by Odds\bin\Debug\net5.0\ref\10. Multiply Evens by Odds.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\10. Multiply Evens by Odds\obj\Debug\net5.0\ref\10. Multiply Evens by Odds.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.genruntimeconfig.cache
