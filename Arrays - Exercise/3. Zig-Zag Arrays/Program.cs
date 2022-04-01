@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace _3._Zig_Zag_Arrays
+namespace _03._Zig_Zag_Arrays
 {
     internal class Program
     {
