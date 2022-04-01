@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\04. Printing Triangle\bin\Debug\net5.0\ref\04. Printing Triangle.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\04. Printing Triangle\obj\Debug\net5.0\ref\04. Printing Triangle.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Sign of Integer Numbers\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.genruntimeconfig.cache
