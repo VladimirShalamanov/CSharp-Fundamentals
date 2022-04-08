@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oCXu0LUcpUonrx+KztkPpWvlHtrkrgVZuWl4nseu2NiYoPIIX2QnK4j0Dh9yFDynSZ15/KnkHadATB4uudX05Q==",
+  "success": true,
+  "projectFilePath": "D:\\Документи\\twa onowa\\_SOFTUNI\\Fundamentals - C#\\Basic Syntax, Conditional Statements and Loops - Lab\\11. Multiplication Table 2.0\\11. Multiplication Table 2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
