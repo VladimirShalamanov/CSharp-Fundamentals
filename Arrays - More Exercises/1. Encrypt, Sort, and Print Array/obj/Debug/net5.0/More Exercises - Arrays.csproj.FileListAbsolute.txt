@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\More Exercises - Arrays\bin\Debug\net5.0\More Exercises - Arrays.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\More Exercises - Arrays\bin\Debug\net5.0\More Exercises - Arrays.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\More Exercises - Arrays\bin\Debug\net5.0\More Exercises - Arrays.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\More Exercises - Arrays\bin\Debug\net5.0\More Exercises - Arrays.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\More Exercises - Arrays\bin\Debug\net5.0\More Exercises - Arrays.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\More Exercises - Arrays\bin\Debug\net5.0\ref\More Exercises - Arrays.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\More Exercises - Arrays\bin\Debug\net5.0\More Exercises - Arrays.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\More Exercises - Arrays\obj\Debug\net5.0\More Exercises - Arrays.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\More Exercises - Arrays\obj\Debug\net5.0\More Exercises - Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\More Exercises - Arrays\obj\Debug\net5.0\More Exercises - Arrays.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\More Exercises - Arrays\obj\Debug\net5.0\More Exercises - Arrays.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\More Exercises - Arrays\obj\Debug\net5.0\More Exercises - Arrays.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\More Exercises - Arrays\obj\Debug\net5.0\More Exercises - Arrays.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\More Exercises - Arrays\obj\Debug\net5.0\ref\More Exercises - Arrays.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\More Exercises - Arrays\obj\Debug\net5.0\More Exercises - Arrays.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Encrypt, Sort, and Print Array\More Exercises - Arrays\obj\Debug\net5.0\More Exercises - Arrays.genruntimeconfig.cache
