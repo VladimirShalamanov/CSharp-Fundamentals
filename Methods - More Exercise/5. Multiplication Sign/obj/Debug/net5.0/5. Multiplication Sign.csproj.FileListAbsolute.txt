@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\5. Multiplication Sign\bin\Debug\net5.0\5. Multiplication Sign.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\5. Multiplication Sign\bin\Debug\net5.0\5. Multiplication Sign.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\5. Multiplication Sign\bin\Debug\net5.0\5. Multiplication Sign.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\5. Multiplication Sign\bin\Debug\net5.0\5. Multiplication Sign.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\5. Multiplication Sign\bin\Debug\net5.0\5. Multiplication Sign.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\5. Multiplication Sign\bin\Debug\net5.0\ref\5. Multiplication Sign.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\5. Multiplication Sign\bin\Debug\net5.0\5. Multiplication Sign.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\5. Multiplication Sign\obj\Debug\net5.0\5. Multiplication Sign.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\5. Multiplication Sign\obj\Debug\net5.0\5. Multiplication Sign.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\5. Multiplication Sign\obj\Debug\net5.0\5. Multiplication Sign.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\5. Multiplication Sign\obj\Debug\net5.0\5. Multiplication Sign.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\5. Multiplication Sign\obj\Debug\net5.0\5. Multiplication Sign.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\5. Multiplication Sign\obj\Debug\net5.0\ref\5. Multiplication Sign.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\5. Multiplication Sign\obj\Debug\net5.0\5. Multiplication Sign.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\5. Multiplication Sign\obj\Debug\net5.0\5. Multiplication Sign.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\5. Multiplication Sign\obj\Debug\net5.0\5. Multiplication Sign.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\More Exercise - Methods\bin\Debug\net5.0\More Exercise - Methods.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\More Exercise - Methods\bin\Debug\net5.0\More Exercise - Methods.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\More Exercise - Methods\bin\Debug\net5.0\More Exercise - Methods.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\More Exercise - Methods\bin\Debug\net5.0\More Exercise - Methods.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\More Exercise - Methods\bin\Debug\net5.0\More Exercise - Methods.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\More Exercise - Methods\bin\Debug\net5.0\ref\More Exercise - Methods.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\More Exercise - Methods\bin\Debug\net5.0\More Exercise - Methods.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\More Exercise - Methods\obj\Debug\net5.0\More Exercise - Methods.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\More Exercise - Methods\obj\Debug\net5.0\More Exercise - Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\More Exercise - Methods\obj\Debug\net5.0\More Exercise - Methods.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\More Exercise - Methods\obj\Debug\net5.0\More Exercise - Methods.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\More Exercise - Methods\obj\Debug\net5.0\More Exercise - Methods.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\More Exercise - Methods\obj\Debug\net5.0\More Exercise - Methods.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\More Exercise - Methods\obj\Debug\net5.0\ref\More Exercise - Methods.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\More Exercise - Methods\obj\Debug\net5.0\More Exercise - Methods.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\More Exercise - Methods\obj\Debug\net5.0\More Exercise - Methods.genruntimeconfig.cache
