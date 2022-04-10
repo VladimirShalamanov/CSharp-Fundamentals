@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\4. Tribonacci Sequence\bin\Debug\net5.0\4. Tribonacci Sequence.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\4. Tribonacci Sequence\bin\Debug\net5.0\4. Tribonacci Sequence.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\4. Tribonacci Sequence\bin\Debug\net5.0\4. Tribonacci Sequence.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\4. Tribonacci Sequence\bin\Debug\net5.0\4. Tribonacci Sequence.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\4. Tribonacci Sequence\bin\Debug\net5.0\4. Tribonacci Sequence.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\4. Tribonacci Sequence\bin\Debug\net5.0\ref\4. Tribonacci Sequence.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\4. Tribonacci Sequence\bin\Debug\net5.0\4. Tribonacci Sequence.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\4. Tribonacci Sequence\obj\Debug\net5.0\4. Tribonacci Sequence.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\4. Tribonacci Sequence\obj\Debug\net5.0\4. Tribonacci Sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\4. Tribonacci Sequence\obj\Debug\net5.0\4. Tribonacci Sequence.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\4. Tribonacci Sequence\obj\Debug\net5.0\4. Tribonacci Sequence.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\4. Tribonacci Sequence\obj\Debug\net5.0\4. Tribonacci Sequence.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\4. Tribonacci Sequence\obj\Debug\net5.0\4. Tribonacci Sequence.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\4. Tribonacci Sequence\obj\Debug\net5.0\ref\4. Tribonacci Sequence.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\4. Tribonacci Sequence\obj\Debug\net5.0\4. Tribonacci Sequence.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\4. Tribonacci Sequence\obj\Debug\net5.0\4. Tribonacci Sequence.genruntimeconfig.cache

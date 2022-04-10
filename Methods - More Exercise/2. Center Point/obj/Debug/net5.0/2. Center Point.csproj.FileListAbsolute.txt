@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\2. Center Point\bin\Debug\net5.0\2. Center Point.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\2. Center Point\bin\Debug\net5.0\2. Center Point.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\2. Center Point\bin\Debug\net5.0\2. Center Point.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\2. Center Point\bin\Debug\net5.0\2. Center Point.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\2. Center Point\bin\Debug\net5.0\2. Center Point.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\2. Center Point\bin\Debug\net5.0\ref\2. Center Point.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\2. Center Point\bin\Debug\net5.0\2. Center Point.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\2. Center Point\obj\Debug\net5.0\2. Center Point.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\2. Center Point\obj\Debug\net5.0\2. Center Point.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\2. Center Point\obj\Debug\net5.0\2. Center Point.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\2. Center Point\obj\Debug\net5.0\2. Center Point.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\2. Center Point\obj\Debug\net5.0\2. Center Point.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\2. Center Point\obj\Debug\net5.0\2. Center Point.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\2. Center Point\obj\Debug\net5.0\ref\2. Center Point.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\2. Center Point\obj\Debug\net5.0\2. Center Point.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1. Data Types\2. Center Point\obj\Debug\net5.0\2. Center Point.genruntimeconfig.cache

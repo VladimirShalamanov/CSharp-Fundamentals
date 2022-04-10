@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\3. Longer Line\bin\Debug\net5.0\3. Longer Line.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\3. Longer Line\bin\Debug\net5.0\3. Longer Line.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\3. Longer Line\bin\Debug\net5.0\3. Longer Line.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\3. Longer Line\bin\Debug\net5.0\3. Longer Line.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\3. Longer Line\bin\Debug\net5.0\3. Longer Line.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\3. Longer Line\bin\Debug\net5.0\ref\3. Longer Line.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\3. Longer Line\bin\Debug\net5.0\3. Longer Line.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\3. Longer Line\obj\Debug\net5.0\3. Longer Line.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\3. Longer Line\obj\Debug\net5.0\3. Longer Line.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\3. Longer Line\obj\Debug\net5.0\3. Longer Line.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\3. Longer Line\obj\Debug\net5.0\3. Longer Line.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\3. Longer Line\obj\Debug\net5.0\3. Longer Line.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\3. Longer Line\obj\Debug\net5.0\3. Longer Line.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\3. Longer Line\obj\Debug\net5.0\ref\3. Longer Line.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\3. Longer Line\obj\Debug\net5.0\3. Longer Line.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Methods\3. Longer Line\obj\Debug\net5.0\3. Longer Line.genruntimeconfig.cache
