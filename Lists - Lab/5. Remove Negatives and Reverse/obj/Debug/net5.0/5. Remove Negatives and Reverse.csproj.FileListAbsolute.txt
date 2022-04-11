@@ -1,0 +1,15 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\5. Remove Negatives and Reverse\bin\Debug\net5.0\5. Remove Negatives and Reverse.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\5. Remove Negatives and Reverse\bin\Debug\net5.0\5. Remove Negatives and Reverse.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\5. Remove Negatives and Reverse\bin\Debug\net5.0\5. Remove Negatives and Reverse.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\5. Remove Negatives and Reverse\bin\Debug\net5.0\5. Remove Negatives and Reverse.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\5. Remove Negatives and Reverse\bin\Debug\net5.0\5. Remove Negatives and Reverse.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\5. Remove Negatives and Reverse\bin\Debug\net5.0\ref\5. Remove Negatives and Reverse.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\5. Remove Negatives and Reverse\bin\Debug\net5.0\5. Remove Negatives and Reverse.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\5. Remove Negatives and Reverse\obj\Debug\net5.0\5. Remove Negatives and Reverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\5. Remove Negatives and Reverse\obj\Debug\net5.0\5. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\5. Remove Negatives and Reverse\obj\Debug\net5.0\5. Remove Negatives and Reverse.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\5. Remove Negatives and Reverse\obj\Debug\net5.0\5. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\5. Remove Negatives and Reverse\obj\Debug\net5.0\5. Remove Negatives and Reverse.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\5. Remove Negatives and Reverse\obj\Debug\net5.0\ref\5. Remove Negatives and Reverse.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\5. Remove Negatives and Reverse\obj\Debug\net5.0\5. Remove Negatives and Reverse.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\5. Remove Negatives and Reverse\obj\Debug\net5.0\5. Remove Negatives and Reverse.genruntimeconfig.cache

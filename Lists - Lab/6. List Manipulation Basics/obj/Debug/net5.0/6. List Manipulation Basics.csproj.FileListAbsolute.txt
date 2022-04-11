@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\6. List Manipulation Basics\bin\Debug\net5.0\6. List Manipulation Basics.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\6. List Manipulation Basics\bin\Debug\net5.0\6. List Manipulation Basics.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\6. List Manipulation Basics\bin\Debug\net5.0\6. List Manipulation Basics.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\6. List Manipulation Basics\bin\Debug\net5.0\6. List Manipulation Basics.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\6. List Manipulation Basics\bin\Debug\net5.0\6. List Manipulation Basics.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\6. List Manipulation Basics\bin\Debug\net5.0\ref\6. List Manipulation Basics.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\6. List Manipulation Basics\bin\Debug\net5.0\6. List Manipulation Basics.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\6. List Manipulation Basics\obj\Debug\net5.0\ref\6. List Manipulation Basics.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.genruntimeconfig.cache

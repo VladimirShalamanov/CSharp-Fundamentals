@@ -1,0 +1,15 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\4. List of Products\bin\Debug\net5.0\4. List of Products.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\4. List of Products\bin\Debug\net5.0\4. List of Products.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\4. List of Products\bin\Debug\net5.0\4. List of Products.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\4. List of Products\bin\Debug\net5.0\4. List of Products.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\4. List of Products\bin\Debug\net5.0\4. List of Products.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\4. List of Products\bin\Debug\net5.0\ref\4. List of Products.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\4. List of Products\bin\Debug\net5.0\4. List of Products.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\4. List of Products\obj\Debug\net5.0\4. List of Products.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\4. List of Products\obj\Debug\net5.0\4. List of Products.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\4. List of Products\obj\Debug\net5.0\4. List of Products.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\4. List of Products\obj\Debug\net5.0\4. List of Products.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\4. List of Products\obj\Debug\net5.0\4. List of Products.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\4. List of Products\obj\Debug\net5.0\ref\4. List of Products.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\4. List of Products\obj\Debug\net5.0\4. List of Products.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\4. List of Products\obj\Debug\net5.0\4. List of Products.genruntimeconfig.cache
