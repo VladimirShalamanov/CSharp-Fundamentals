@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\7. List Manipulation Advanced\bin\Debug\net5.0\7. List Manipulation Advanced.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\7. List Manipulation Advanced\bin\Debug\net5.0\7. List Manipulation Advanced.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\7. List Manipulation Advanced\bin\Debug\net5.0\7. List Manipulation Advanced.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\7. List Manipulation Advanced\bin\Debug\net5.0\7. List Manipulation Advanced.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\7. List Manipulation Advanced\bin\Debug\net5.0\7. List Manipulation Advanced.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\7. List Manipulation Advanced\bin\Debug\net5.0\ref\7. List Manipulation Advanced.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\7. List Manipulation Advanced\bin\Debug\net5.0\7. List Manipulation Advanced.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\7. List Manipulation Advanced\obj\Debug\net5.0\ref\7. List Manipulation Advanced.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.genruntimeconfig.cache
