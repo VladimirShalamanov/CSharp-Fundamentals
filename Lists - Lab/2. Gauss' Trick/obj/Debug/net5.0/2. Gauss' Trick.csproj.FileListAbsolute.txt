@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\2. Gauss' Trick\bin\Debug\net5.0\2. Gauss' Trick.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\2. Gauss' Trick\bin\Debug\net5.0\2. Gauss' Trick.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\2. Gauss' Trick\bin\Debug\net5.0\2. Gauss' Trick.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\2. Gauss' Trick\bin\Debug\net5.0\2. Gauss' Trick.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\2. Gauss' Trick\bin\Debug\net5.0\2. Gauss' Trick.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\2. Gauss' Trick\bin\Debug\net5.0\ref\2. Gauss' Trick.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\2. Gauss' Trick\bin\Debug\net5.0\2. Gauss' Trick.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\2. Gauss' Trick\obj\Debug\net5.0\ref\2. Gauss' Trick.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Lists\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.genruntimeconfig.cache
