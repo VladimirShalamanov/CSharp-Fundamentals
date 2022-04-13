@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\5. Bomb Numbers\bin\Debug\net5.0\5. Bomb Numbers.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\5. Bomb Numbers\bin\Debug\net5.0\5. Bomb Numbers.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\5. Bomb Numbers\bin\Debug\net5.0\5. Bomb Numbers.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\5. Bomb Numbers\bin\Debug\net5.0\5. Bomb Numbers.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\5. Bomb Numbers\bin\Debug\net5.0\5. Bomb Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\5. Bomb Numbers\bin\Debug\net5.0\ref\5. Bomb Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\5. Bomb Numbers\bin\Debug\net5.0\5. Bomb Numbers.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\5. Bomb Numbers\obj\Debug\net5.0\ref\5. Bomb Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.genruntimeconfig.cache

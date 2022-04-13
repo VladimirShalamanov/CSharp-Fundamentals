@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\6. Cards Game\bin\Debug\net5.0\6. Cards Game.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\6. Cards Game\bin\Debug\net5.0\6. Cards Game.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\6. Cards Game\bin\Debug\net5.0\6. Cards Game.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\6. Cards Game\bin\Debug\net5.0\6. Cards Game.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\6. Cards Game\bin\Debug\net5.0\6. Cards Game.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\6. Cards Game\bin\Debug\net5.0\ref\6. Cards Game.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\6. Cards Game\bin\Debug\net5.0\6. Cards Game.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\6. Cards Game\obj\Debug\net5.0\6. Cards Game.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\6. Cards Game\obj\Debug\net5.0\6. Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\6. Cards Game\obj\Debug\net5.0\6. Cards Game.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\6. Cards Game\obj\Debug\net5.0\6. Cards Game.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\6. Cards Game\obj\Debug\net5.0\6. Cards Game.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\6. Cards Game\obj\Debug\net5.0\6. Cards Game.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\6. Cards Game\obj\Debug\net5.0\ref\6. Cards Game.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\6. Cards Game\obj\Debug\net5.0\6. Cards Game.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\6. Cards Game\obj\Debug\net5.0\6. Cards Game.genruntimeconfig.cache

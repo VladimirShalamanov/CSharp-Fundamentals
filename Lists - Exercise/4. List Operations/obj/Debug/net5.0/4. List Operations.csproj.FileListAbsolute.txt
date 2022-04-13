@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\4. List Operations\bin\Debug\net5.0\4. List Operations.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\4. List Operations\bin\Debug\net5.0\4. List Operations.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\4. List Operations\bin\Debug\net5.0\4. List Operations.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\4. List Operations\bin\Debug\net5.0\4. List Operations.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\4. List Operations\bin\Debug\net5.0\4. List Operations.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\4. List Operations\bin\Debug\net5.0\ref\4. List Operations.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\4. List Operations\bin\Debug\net5.0\4. List Operations.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\4. List Operations\obj\Debug\net5.0\4. List Operations.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\4. List Operations\obj\Debug\net5.0\4. List Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\4. List Operations\obj\Debug\net5.0\4. List Operations.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\4. List Operations\obj\Debug\net5.0\4. List Operations.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\4. List Operations\obj\Debug\net5.0\4. List Operations.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\4. List Operations\obj\Debug\net5.0\4. List Operations.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\4. List Operations\obj\Debug\net5.0\ref\4. List Operations.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\4. List Operations\obj\Debug\net5.0\4. List Operations.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\4. List Operations\obj\Debug\net5.0\4. List Operations.genruntimeconfig.cache
