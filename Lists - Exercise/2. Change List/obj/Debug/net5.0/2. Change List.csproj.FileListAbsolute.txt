@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\2. Change List\bin\Debug\net5.0\2. Change List.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\2. Change List\bin\Debug\net5.0\2. Change List.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\2. Change List\bin\Debug\net5.0\2. Change List.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\2. Change List\bin\Debug\net5.0\2. Change List.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\2. Change List\bin\Debug\net5.0\2. Change List.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\2. Change List\bin\Debug\net5.0\ref\2. Change List.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\2. Change List\bin\Debug\net5.0\2. Change List.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\2. Change List\obj\Debug\net5.0\2. Change List.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\2. Change List\obj\Debug\net5.0\2. Change List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\2. Change List\obj\Debug\net5.0\2. Change List.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\2. Change List\obj\Debug\net5.0\2. Change List.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\2. Change List\obj\Debug\net5.0\2. Change List.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\2. Change List\obj\Debug\net5.0\2. Change List.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\2. Change List\obj\Debug\net5.0\ref\2. Change List.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\2. Change List\obj\Debug\net5.0\2. Change List.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\2. Change List\obj\Debug\net5.0\2. Change List.genruntimeconfig.cache

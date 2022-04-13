@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\1. House Party\bin\Debug\net5.0\3. House Party.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\1. House Party\bin\Debug\net5.0\3. House Party.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\1. House Party\bin\Debug\net5.0\3. House Party.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\1. House Party\bin\Debug\net5.0\3. House Party.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\1. House Party\bin\Debug\net5.0\3. House Party.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\1. House Party\bin\Debug\net5.0\ref\3. House Party.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\1. House Party\bin\Debug\net5.0\3. House Party.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\1. House Party\obj\Debug\net5.0\3. House Party.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\1. House Party\obj\Debug\net5.0\3. House Party.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\1. House Party\obj\Debug\net5.0\3. House Party.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\1. House Party\obj\Debug\net5.0\3. House Party.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\1. House Party\obj\Debug\net5.0\3. House Party.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\1. House Party\obj\Debug\net5.0\3. House Party.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\1. House Party\obj\Debug\net5.0\ref\3. House Party.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\1. House Party\obj\Debug\net5.0\3. House Party.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\1. House Party\obj\Debug\net5.0\3. House Party.genruntimeconfig.cache
