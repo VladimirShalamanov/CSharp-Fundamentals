@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\8. Anonymous Threat\bin\Debug\net5.0\8. Anonymous Threat.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\8. Anonymous Threat\bin\Debug\net5.0\8. Anonymous Threat.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\8. Anonymous Threat\bin\Debug\net5.0\8. Anonymous Threat.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\8. Anonymous Threat\bin\Debug\net5.0\8. Anonymous Threat.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\8. Anonymous Threat\bin\Debug\net5.0\8. Anonymous Threat.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\8. Anonymous Threat\bin\Debug\net5.0\ref\8. Anonymous Threat.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\8. Anonymous Threat\bin\Debug\net5.0\8. Anonymous Threat.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\8. Anonymous Threat\obj\Debug\net5.0\8. Anonymous Threat.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\8. Anonymous Threat\obj\Debug\net5.0\8. Anonymous Threat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\8. Anonymous Threat\obj\Debug\net5.0\8. Anonymous Threat.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\8. Anonymous Threat\obj\Debug\net5.0\8. Anonymous Threat.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\8. Anonymous Threat\obj\Debug\net5.0\8. Anonymous Threat.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\8. Anonymous Threat\obj\Debug\net5.0\8. Anonymous Threat.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\8. Anonymous Threat\obj\Debug\net5.0\ref\8. Anonymous Threat.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\8. Anonymous Threat\obj\Debug\net5.0\8. Anonymous Threat.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\8. Anonymous Threat\obj\Debug\net5.0\8. Anonymous Threat.genruntimeconfig.cache

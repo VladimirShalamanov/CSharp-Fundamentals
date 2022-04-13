@@ -1,0 +1,15 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\7. Append Arrays\bin\Debug\net5.0\7. Append Arrays.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\7. Append Arrays\bin\Debug\net5.0\7. Append Arrays.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\7. Append Arrays\bin\Debug\net5.0\7. Append Arrays.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\7. Append Arrays\bin\Debug\net5.0\7. Append Arrays.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\7. Append Arrays\bin\Debug\net5.0\7. Append Arrays.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\7. Append Arrays\bin\Debug\net5.0\ref\7. Append Arrays.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\7. Append Arrays\bin\Debug\net5.0\7. Append Arrays.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\7. Append Arrays\obj\Debug\net5.0\7. Append Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\7. Append Arrays\obj\Debug\net5.0\7. Append Arrays.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\7. Append Arrays\obj\Debug\net5.0\7. Append Arrays.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\7. Append Arrays\obj\Debug\net5.0\7. Append Arrays.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\7. Append Arrays\obj\Debug\net5.0\7. Append Arrays.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\7. Append Arrays\obj\Debug\net5.0\ref\7. Append Arrays.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\7. Append Arrays\obj\Debug\net5.0\7. Append Arrays.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\7. Append Arrays\obj\Debug\net5.0\7. Append Arrays.genruntimeconfig.cache

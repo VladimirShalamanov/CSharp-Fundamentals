@@ -1,0 +1,15 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\9. Pokemon Don’t Go\bin\Debug\net5.0\9. Pokemon Don’t Go.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\9. Pokemon Don’t Go\bin\Debug\net5.0\9. Pokemon Don’t Go.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\9. Pokemon Don’t Go\bin\Debug\net5.0\9. Pokemon Don’t Go.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\9. Pokemon Don’t Go\bin\Debug\net5.0\9. Pokemon Don’t Go.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\9. Pokemon Don’t Go\bin\Debug\net5.0\9. Pokemon Don’t Go.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\9. Pokemon Don’t Go\bin\Debug\net5.0\ref\9. Pokemon Don’t Go.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\9. Pokemon Don’t Go\bin\Debug\net5.0\9. Pokemon Don’t Go.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\9. Pokemon Don’t Go\obj\Debug\net5.0\9. Pokemon Don’t Go.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\9. Pokemon Don’t Go\obj\Debug\net5.0\9. Pokemon Don’t Go.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\9. Pokemon Don’t Go\obj\Debug\net5.0\9. Pokemon Don’t Go.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\9. Pokemon Don’t Go\obj\Debug\net5.0\9. Pokemon Don’t Go.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\9. Pokemon Don’t Go\obj\Debug\net5.0\9. Pokemon Don’t Go.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\9. Pokemon Don’t Go\obj\Debug\net5.0\ref\9. Pokemon Don’t Go.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\9. Pokemon Don’t Go\obj\Debug\net5.0\9. Pokemon Don’t Go.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Lists\9. Pokemon Don’t Go\obj\Debug\net5.0\9. Pokemon Don’t Go.genruntimeconfig.cache
