@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1 - Preparation Fundamentals Mid Exam Retake\02. The Lift\bin\Debug\net5.0\02. The Lift.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1 - Preparation Fundamentals Mid Exam Retake\02. The Lift\bin\Debug\net5.0\02. The Lift.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1 - Preparation Fundamentals Mid Exam Retake\02. The Lift\bin\Debug\net5.0\02. The Lift.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1 - Preparation Fundamentals Mid Exam Retake\02. The Lift\bin\Debug\net5.0\02. The Lift.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1 - Preparation Fundamentals Mid Exam Retake\02. The Lift\bin\Debug\net5.0\02. The Lift.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1 - Preparation Fundamentals Mid Exam Retake\02. The Lift\bin\Debug\net5.0\ref\02. The Lift.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1 - Preparation Fundamentals Mid Exam Retake\02. The Lift\bin\Debug\net5.0\02. The Lift.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1 - Preparation Fundamentals Mid Exam Retake\02. The Lift\obj\Debug\net5.0\02. The Lift.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1 - Preparation Fundamentals Mid Exam Retake\02. The Lift\obj\Debug\net5.0\02. The Lift.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1 - Preparation Fundamentals Mid Exam Retake\02. The Lift\obj\Debug\net5.0\02. The Lift.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1 - Preparation Fundamentals Mid Exam Retake\02. The Lift\obj\Debug\net5.0\02. The Lift.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1 - Preparation Fundamentals Mid Exam Retake\02. The Lift\obj\Debug\net5.0\02. The Lift.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1 - Preparation Fundamentals Mid Exam Retake\02. The Lift\obj\Debug\net5.0\02. The Lift.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1 - Preparation Fundamentals Mid Exam Retake\02. The Lift\obj\Debug\net5.0\ref\02. The Lift.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1 - Preparation Fundamentals Mid Exam Retake\02. The Lift\obj\Debug\net5.0\02. The Lift.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\1 - Preparation Fundamentals Mid Exam Retake\02. The Lift\obj\Debug\net5.0\02. The Lift.genruntimeconfig.cache
