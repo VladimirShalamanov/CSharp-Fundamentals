@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\02. Array Modifier\bin\Debug\net5.0\ref\02. Array Modifier.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\02. Array Modifier\obj\Debug\net5.0\ref\02. Array Modifier.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.genruntimeconfig.cache

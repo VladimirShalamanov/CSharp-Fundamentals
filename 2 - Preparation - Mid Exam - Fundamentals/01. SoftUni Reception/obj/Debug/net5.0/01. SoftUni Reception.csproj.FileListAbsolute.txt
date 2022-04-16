@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\01. SoftUni Reception\bin\Debug\net5.0\01. SoftUni Reception.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\01. SoftUni Reception\bin\Debug\net5.0\01. SoftUni Reception.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\01. SoftUni Reception\bin\Debug\net5.0\01. SoftUni Reception.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\01. SoftUni Reception\bin\Debug\net5.0\01. SoftUni Reception.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\01. SoftUni Reception\bin\Debug\net5.0\01. SoftUni Reception.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\01. SoftUni Reception\bin\Debug\net5.0\ref\01. SoftUni Reception.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\01. SoftUni Reception\bin\Debug\net5.0\01. SoftUni Reception.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\01. SoftUni Reception\obj\Debug\net5.0\ref\01. SoftUni Reception.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Preparation - Mid Exam Fundamentals\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.genruntimeconfig.cache
