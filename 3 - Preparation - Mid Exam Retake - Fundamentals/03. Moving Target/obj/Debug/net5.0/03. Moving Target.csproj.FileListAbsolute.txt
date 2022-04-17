@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\3 -  Preparation Mid Exam Retake\03. Moving Target\bin\Debug\net5.0\03. Moving Target.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\3 -  Preparation Mid Exam Retake\03. Moving Target\bin\Debug\net5.0\03. Moving Target.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\3 -  Preparation Mid Exam Retake\03. Moving Target\bin\Debug\net5.0\03. Moving Target.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\3 -  Preparation Mid Exam Retake\03. Moving Target\bin\Debug\net5.0\03. Moving Target.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\3 -  Preparation Mid Exam Retake\03. Moving Target\bin\Debug\net5.0\03. Moving Target.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\3 -  Preparation Mid Exam Retake\03. Moving Target\bin\Debug\net5.0\ref\03. Moving Target.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\3 -  Preparation Mid Exam Retake\03. Moving Target\bin\Debug\net5.0\03. Moving Target.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\3 -  Preparation Mid Exam Retake\03. Moving Target\obj\Debug\net5.0\03. Moving Target.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\3 -  Preparation Mid Exam Retake\03. Moving Target\obj\Debug\net5.0\03. Moving Target.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\3 -  Preparation Mid Exam Retake\03. Moving Target\obj\Debug\net5.0\03. Moving Target.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\3 -  Preparation Mid Exam Retake\03. Moving Target\obj\Debug\net5.0\03. Moving Target.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\3 -  Preparation Mid Exam Retake\03. Moving Target\obj\Debug\net5.0\03. Moving Target.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\3 -  Preparation Mid Exam Retake\03. Moving Target\obj\Debug\net5.0\03. Moving Target.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\3 -  Preparation Mid Exam Retake\03. Moving Target\obj\Debug\net5.0\ref\03. Moving Target.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\3 -  Preparation Mid Exam Retake\03. Moving Target\obj\Debug\net5.0\03. Moving Target.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\3 -  Preparation Mid Exam Retake\03. Moving Target\obj\Debug\net5.0\03. Moving Target.genruntimeconfig.cache
