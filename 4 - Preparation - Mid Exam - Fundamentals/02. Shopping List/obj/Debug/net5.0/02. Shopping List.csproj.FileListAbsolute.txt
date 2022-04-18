@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\4. PreparationFundamentals Mid Exam\02. Shopping List\bin\Debug\net5.0\02. Shopping List.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\4. PreparationFundamentals Mid Exam\02. Shopping List\bin\Debug\net5.0\02. Shopping List.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\4. PreparationFundamentals Mid Exam\02. Shopping List\bin\Debug\net5.0\02. Shopping List.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\4. PreparationFundamentals Mid Exam\02. Shopping List\bin\Debug\net5.0\02. Shopping List.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\4. PreparationFundamentals Mid Exam\02. Shopping List\bin\Debug\net5.0\02. Shopping List.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\4. PreparationFundamentals Mid Exam\02. Shopping List\bin\Debug\net5.0\ref\02. Shopping List.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\4. PreparationFundamentals Mid Exam\02. Shopping List\bin\Debug\net5.0\02. Shopping List.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\4. PreparationFundamentals Mid Exam\02. Shopping List\obj\Debug\net5.0\02. Shopping List.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\4. PreparationFundamentals Mid Exam\02. Shopping List\obj\Debug\net5.0\02. Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\4. PreparationFundamentals Mid Exam\02. Shopping List\obj\Debug\net5.0\02. Shopping List.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\4. PreparationFundamentals Mid Exam\02. Shopping List\obj\Debug\net5.0\02. Shopping List.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\4. PreparationFundamentals Mid Exam\02. Shopping List\obj\Debug\net5.0\02. Shopping List.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\4. PreparationFundamentals Mid Exam\02. Shopping List\obj\Debug\net5.0\02. Shopping List.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\4. PreparationFundamentals Mid Exam\02. Shopping List\obj\Debug\net5.0\ref\02. Shopping List.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\4. PreparationFundamentals Mid Exam\02. Shopping List\obj\Debug\net5.0\02. Shopping List.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\4. PreparationFundamentals Mid Exam\02. Shopping List\obj\Debug\net5.0\02. Shopping List.genruntimeconfig.cache
