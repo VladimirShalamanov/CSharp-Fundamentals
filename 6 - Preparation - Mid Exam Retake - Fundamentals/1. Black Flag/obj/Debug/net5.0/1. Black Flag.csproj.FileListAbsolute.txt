@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\1. Black Flag\bin\Debug\net5.0\1. Black Flag.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\1. Black Flag\bin\Debug\net5.0\1. Black Flag.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\1. Black Flag\bin\Debug\net5.0\1. Black Flag.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\1. Black Flag\bin\Debug\net5.0\1. Black Flag.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\1. Black Flag\bin\Debug\net5.0\1. Black Flag.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\1. Black Flag\bin\Debug\net5.0\ref\1. Black Flag.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\1. Black Flag\bin\Debug\net5.0\1. Black Flag.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\1. Black Flag\obj\Debug\net5.0\1. Black Flag.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\1. Black Flag\obj\Debug\net5.0\1. Black Flag.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\1. Black Flag\obj\Debug\net5.0\1. Black Flag.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\1. Black Flag\obj\Debug\net5.0\1. Black Flag.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\1. Black Flag\obj\Debug\net5.0\1. Black Flag.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\1. Black Flag\obj\Debug\net5.0\1. Black Flag.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\1. Black Flag\obj\Debug\net5.0\ref\1. Black Flag.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\1. Black Flag\obj\Debug\net5.0\1. Black Flag.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\1. Black Flag\obj\Debug\net5.0\1. Black Flag.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\02. Treasure Hunt\bin\Debug\net5.0\02. Treasure Hunt.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\02. Treasure Hunt\bin\Debug\net5.0\02. Treasure Hunt.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\02. Treasure Hunt\bin\Debug\net5.0\02. Treasure Hunt.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\02. Treasure Hunt\bin\Debug\net5.0\02. Treasure Hunt.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\02. Treasure Hunt\bin\Debug\net5.0\02. Treasure Hunt.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\02. Treasure Hunt\bin\Debug\net5.0\ref\02. Treasure Hunt.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\02. Treasure Hunt\bin\Debug\net5.0\02. Treasure Hunt.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\net5.0\ref\02. Treasure Hunt.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\6. Preparatinon Fundamentals Mid Exam Retake\02. Treasure Hunt\obj\Debug\net5.0\02. Treasure Hunt.genruntimeconfig.cache
