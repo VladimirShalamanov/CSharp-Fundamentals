@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\02. Tax Calculator\bin\Debug\net5.0\02. Tax Calculator.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\02. Tax Calculator\bin\Debug\net5.0\02. Tax Calculator.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\02. Tax Calculator\bin\Debug\net5.0\02. Tax Calculator.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\02. Tax Calculator\bin\Debug\net5.0\02. Tax Calculator.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\02. Tax Calculator\bin\Debug\net5.0\02. Tax Calculator.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\02. Tax Calculator\bin\Debug\net5.0\ref\02. Tax Calculator.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\02. Tax Calculator\bin\Debug\net5.0\02. Tax Calculator.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\02. Tax Calculator\obj\Debug\net5.0\02. Tax Calculator.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\02. Tax Calculator\obj\Debug\net5.0\02. Tax Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\02. Tax Calculator\obj\Debug\net5.0\02. Tax Calculator.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\02. Tax Calculator\obj\Debug\net5.0\02. Tax Calculator.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\02. Tax Calculator\obj\Debug\net5.0\02. Tax Calculator.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\02. Tax Calculator\obj\Debug\net5.0\02. Tax Calculator.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\02. Tax Calculator\obj\Debug\net5.0\ref\02. Tax Calculator.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\02. Tax Calculator\obj\Debug\net5.0\02. Tax Calculator.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\02. Tax Calculator\obj\Debug\net5.0\02. Tax Calculator.genruntimeconfig.cache

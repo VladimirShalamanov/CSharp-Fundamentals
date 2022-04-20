@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\03. School Library\bin\Debug\net5.0\03. School Library.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\03. School Library\bin\Debug\net5.0\03. School Library.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\03. School Library\bin\Debug\net5.0\03. School Library.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\03. School Library\bin\Debug\net5.0\03. School Library.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\03. School Library\bin\Debug\net5.0\03. School Library.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\03. School Library\bin\Debug\net5.0\ref\03. School Library.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\03. School Library\bin\Debug\net5.0\03. School Library.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\03. School Library\obj\Debug\net5.0\03. School Library.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\03. School Library\obj\Debug\net5.0\03. School Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\03. School Library\obj\Debug\net5.0\03. School Library.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\03. School Library\obj\Debug\net5.0\03. School Library.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\03. School Library\obj\Debug\net5.0\03. School Library.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\03. School Library\obj\Debug\net5.0\03. School Library.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\03. School Library\obj\Debug\net5.0\ref\03. School Library.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\03. School Library\obj\Debug\net5.0\03. School Library.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\03. School Library\obj\Debug\net5.0\03. School Library.genruntimeconfig.cache

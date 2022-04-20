@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\01. Experience Gaining\bin\Debug\net5.0\01. Experience Gaining.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\01. Experience Gaining\bin\Debug\net5.0\01. Experience Gaining.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\01. Experience Gaining\bin\Debug\net5.0\01. Experience Gaining.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\01. Experience Gaining\bin\Debug\net5.0\01. Experience Gaining.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\01. Experience Gaining\bin\Debug\net5.0\01. Experience Gaining.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\01. Experience Gaining\bin\Debug\net5.0\ref\01. Experience Gaining.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\01. Experience Gaining\bin\Debug\net5.0\01. Experience Gaining.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\01. Experience Gaining\obj\Debug\net5.0\01. Experience Gaining.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\01. Experience Gaining\obj\Debug\net5.0\01. Experience Gaining.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\01. Experience Gaining\obj\Debug\net5.0\01. Experience Gaining.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\01. Experience Gaining\obj\Debug\net5.0\01. Experience Gaining.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\01. Experience Gaining\obj\Debug\net5.0\01. Experience Gaining.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\01. Experience Gaining\obj\Debug\net5.0\01. Experience Gaining.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\01. Experience Gaining\obj\Debug\net5.0\ref\01. Experience Gaining.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\01. Experience Gaining\obj\Debug\net5.0\01. Experience Gaining.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\__Programming Fundamentals Mid Exam - 20 February 2022\01. Experience Gaining\obj\Debug\net5.0\01. Experience Gaining.genruntimeconfig.cache
