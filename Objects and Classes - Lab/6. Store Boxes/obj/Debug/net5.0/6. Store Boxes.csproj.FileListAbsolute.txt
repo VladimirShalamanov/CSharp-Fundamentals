@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\6. Store Boxes\bin\Debug\net5.0\6. Store Boxes.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\6. Store Boxes\bin\Debug\net5.0\6. Store Boxes.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\6. Store Boxes\bin\Debug\net5.0\6. Store Boxes.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\6. Store Boxes\bin\Debug\net5.0\6. Store Boxes.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\6. Store Boxes\bin\Debug\net5.0\6. Store Boxes.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\6. Store Boxes\bin\Debug\net5.0\ref\6. Store Boxes.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\6. Store Boxes\bin\Debug\net5.0\6. Store Boxes.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\6. Store Boxes\obj\Debug\net5.0\6. Store Boxes.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\6. Store Boxes\obj\Debug\net5.0\6. Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\6. Store Boxes\obj\Debug\net5.0\6. Store Boxes.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\6. Store Boxes\obj\Debug\net5.0\6. Store Boxes.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\6. Store Boxes\obj\Debug\net5.0\6. Store Boxes.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\6. Store Boxes\obj\Debug\net5.0\6. Store Boxes.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\6. Store Boxes\obj\Debug\net5.0\ref\6. Store Boxes.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\6. Store Boxes\obj\Debug\net5.0\6. Store Boxes.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\6. Store Boxes\obj\Debug\net5.0\6. Store Boxes.genruntimeconfig.cache
