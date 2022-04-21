@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\02. Big Factorial\bin\Debug\net5.0\ref\02. Big Factorial.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\02. Big Factorial\obj\Debug\net5.0\ref\02. Big Factorial.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab -  Objects and Classes\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.genruntimeconfig.cache
