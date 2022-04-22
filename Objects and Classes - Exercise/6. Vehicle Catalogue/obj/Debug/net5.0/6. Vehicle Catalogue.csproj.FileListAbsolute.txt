@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\6. Vehicle Catalogue\bin\Debug\net5.0\6. Vehicle Catalogue.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\6. Vehicle Catalogue\bin\Debug\net5.0\6. Vehicle Catalogue.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\6. Vehicle Catalogue\bin\Debug\net5.0\6. Vehicle Catalogue.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\6. Vehicle Catalogue\bin\Debug\net5.0\6. Vehicle Catalogue.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\6. Vehicle Catalogue\bin\Debug\net5.0\6. Vehicle Catalogue.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\6. Vehicle Catalogue\bin\Debug\net5.0\ref\6. Vehicle Catalogue.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\6. Vehicle Catalogue\bin\Debug\net5.0\6. Vehicle Catalogue.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\6. Vehicle Catalogue\obj\Debug\net5.0\6. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\6. Vehicle Catalogue\obj\Debug\net5.0\6. Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\6. Vehicle Catalogue\obj\Debug\net5.0\6. Vehicle Catalogue.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\6. Vehicle Catalogue\obj\Debug\net5.0\6. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\6. Vehicle Catalogue\obj\Debug\net5.0\6. Vehicle Catalogue.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\6. Vehicle Catalogue\obj\Debug\net5.0\ref\6. Vehicle Catalogue.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\6. Vehicle Catalogue\obj\Debug\net5.0\6. Vehicle Catalogue.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\6. Vehicle Catalogue\obj\Debug\net5.0\6. Vehicle Catalogue.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\6. Vehicle Catalogue\obj\Debug\net5.0\6. Vehicle Catalogue.csproj.AssemblyReference.cache
