@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\4. Students\bin\Debug\net5.0\4. Students.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\4. Students\bin\Debug\net5.0\4. Students.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\4. Students\bin\Debug\net5.0\4. Students.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\4. Students\bin\Debug\net5.0\4. Students.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\4. Students\bin\Debug\net5.0\4. Students.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\4. Students\bin\Debug\net5.0\ref\4. Students.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\4. Students\bin\Debug\net5.0\4. Students.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\4. Students\obj\Debug\net5.0\4. Students.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\4. Students\obj\Debug\net5.0\4. Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\4. Students\obj\Debug\net5.0\4. Students.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\4. Students\obj\Debug\net5.0\4. Students.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\4. Students\obj\Debug\net5.0\4. Students.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\4. Students\obj\Debug\net5.0\4. Students.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\4. Students\obj\Debug\net5.0\ref\4. Students.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\4. Students\obj\Debug\net5.0\4. Students.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Objects and Classes\4. Students\obj\Debug\net5.0\4. Students.genruntimeconfig.cache
