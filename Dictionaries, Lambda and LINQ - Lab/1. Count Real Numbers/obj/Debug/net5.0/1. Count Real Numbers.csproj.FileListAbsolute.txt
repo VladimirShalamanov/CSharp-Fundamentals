@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\1. Count Real Numbers\bin\Debug\net5.0\1. Count Real Numbers.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\1. Count Real Numbers\bin\Debug\net5.0\1. Count Real Numbers.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\1. Count Real Numbers\bin\Debug\net5.0\1. Count Real Numbers.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\1. Count Real Numbers\bin\Debug\net5.0\1. Count Real Numbers.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\1. Count Real Numbers\bin\Debug\net5.0\1. Count Real Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\1. Count Real Numbers\bin\Debug\net5.0\ref\1. Count Real Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\1. Count Real Numbers\bin\Debug\net5.0\1. Count Real Numbers.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\1. Count Real Numbers\obj\Debug\net5.0\1. Count Real Numbers.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\1. Count Real Numbers\obj\Debug\net5.0\1. Count Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\1. Count Real Numbers\obj\Debug\net5.0\1. Count Real Numbers.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\1. Count Real Numbers\obj\Debug\net5.0\1. Count Real Numbers.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\1. Count Real Numbers\obj\Debug\net5.0\1. Count Real Numbers.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\1. Count Real Numbers\obj\Debug\net5.0\1. Count Real Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\1. Count Real Numbers\obj\Debug\net5.0\ref\1. Count Real Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\1. Count Real Numbers\obj\Debug\net5.0\1. Count Real Numbers.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\1. Count Real Numbers\obj\Debug\net5.0\1. Count Real Numbers.genruntimeconfig.cache

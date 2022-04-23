@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\3. Word Synonyms\bin\Debug\net5.0\3. Word Synonyms.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\3. Word Synonyms\bin\Debug\net5.0\3. Word Synonyms.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\3. Word Synonyms\bin\Debug\net5.0\3. Word Synonyms.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\3. Word Synonyms\bin\Debug\net5.0\3. Word Synonyms.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\3. Word Synonyms\bin\Debug\net5.0\3. Word Synonyms.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\3. Word Synonyms\bin\Debug\net5.0\ref\3. Word Synonyms.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\3. Word Synonyms\bin\Debug\net5.0\3. Word Synonyms.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\3. Word Synonyms\obj\Debug\net5.0\3. Word Synonyms.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\3. Word Synonyms\obj\Debug\net5.0\3. Word Synonyms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\3. Word Synonyms\obj\Debug\net5.0\3. Word Synonyms.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\3. Word Synonyms\obj\Debug\net5.0\3. Word Synonyms.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\3. Word Synonyms\obj\Debug\net5.0\3. Word Synonyms.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\3. Word Synonyms\obj\Debug\net5.0\3. Word Synonyms.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\3. Word Synonyms\obj\Debug\net5.0\ref\3. Word Synonyms.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\3. Word Synonyms\obj\Debug\net5.0\3. Word Synonyms.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\3. Word Synonyms\obj\Debug\net5.0\3. Word Synonyms.genruntimeconfig.cache

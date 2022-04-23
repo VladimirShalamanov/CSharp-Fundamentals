@@ -1,0 +1,15 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\4. Word Filter\bin\Debug\net5.0\4. Word Filter.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\4. Word Filter\bin\Debug\net5.0\4. Word Filter.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\4. Word Filter\bin\Debug\net5.0\4. Word Filter.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\4. Word Filter\bin\Debug\net5.0\4. Word Filter.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\4. Word Filter\bin\Debug\net5.0\4. Word Filter.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\4. Word Filter\bin\Debug\net5.0\ref\4. Word Filter.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\4. Word Filter\bin\Debug\net5.0\4. Word Filter.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\4. Word Filter\obj\Debug\net5.0\4. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\4. Word Filter\obj\Debug\net5.0\4. Word Filter.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\4. Word Filter\obj\Debug\net5.0\4. Word Filter.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\4. Word Filter\obj\Debug\net5.0\4. Word Filter.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\4. Word Filter\obj\Debug\net5.0\4. Word Filter.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\4. Word Filter\obj\Debug\net5.0\ref\4. Word Filter.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\4. Word Filter\obj\Debug\net5.0\4. Word Filter.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Dictionaries, Lambda and LINQ\4. Word Filter\obj\Debug\net5.0\4. Word Filter.genruntimeconfig.cache
