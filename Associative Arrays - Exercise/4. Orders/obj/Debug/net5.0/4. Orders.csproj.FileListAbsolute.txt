@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\4. Orders\bin\Debug\net5.0\4. Orders.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\4. Orders\bin\Debug\net5.0\4. Orders.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\4. Orders\bin\Debug\net5.0\4. Orders.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\4. Orders\bin\Debug\net5.0\4. Orders.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\4. Orders\bin\Debug\net5.0\4. Orders.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\4. Orders\bin\Debug\net5.0\ref\4. Orders.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\4. Orders\bin\Debug\net5.0\4. Orders.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\4. Orders\obj\Debug\net5.0\4. Orders.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\4. Orders\obj\Debug\net5.0\4. Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\4. Orders\obj\Debug\net5.0\4. Orders.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\4. Orders\obj\Debug\net5.0\4. Orders.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\4. Orders\obj\Debug\net5.0\4. Orders.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\4. Orders\obj\Debug\net5.0\4. Orders.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\4. Orders\obj\Debug\net5.0\ref\4. Orders.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\4. Orders\obj\Debug\net5.0\4. Orders.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\4. Orders\obj\Debug\net5.0\4. Orders.genruntimeconfig.cache
