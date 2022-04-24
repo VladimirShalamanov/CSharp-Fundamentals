@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\6. Courses\bin\Debug\net5.0\6. Courses.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\6. Courses\bin\Debug\net5.0\6. Courses.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\6. Courses\bin\Debug\net5.0\6. Courses.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\6. Courses\bin\Debug\net5.0\6. Courses.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\6. Courses\bin\Debug\net5.0\6. Courses.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\6. Courses\bin\Debug\net5.0\ref\6. Courses.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\6. Courses\bin\Debug\net5.0\6. Courses.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\6. Courses\obj\Debug\net5.0\6. Courses.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\6. Courses\obj\Debug\net5.0\6. Courses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\6. Courses\obj\Debug\net5.0\6. Courses.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\6. Courses\obj\Debug\net5.0\6. Courses.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\6. Courses\obj\Debug\net5.0\6. Courses.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\6. Courses\obj\Debug\net5.0\6. Courses.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\6. Courses\obj\Debug\net5.0\ref\6. Courses.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\6. Courses\obj\Debug\net5.0\6. Courses.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\6. Courses\obj\Debug\net5.0\6. Courses.genruntimeconfig.cache

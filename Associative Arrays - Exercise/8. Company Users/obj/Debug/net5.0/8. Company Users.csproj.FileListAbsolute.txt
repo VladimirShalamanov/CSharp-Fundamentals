@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\8. Company Users\bin\Debug\net5.0\8. Company Users.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\8. Company Users\bin\Debug\net5.0\8. Company Users.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\8. Company Users\bin\Debug\net5.0\8. Company Users.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\8. Company Users\bin\Debug\net5.0\8. Company Users.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\8. Company Users\bin\Debug\net5.0\8. Company Users.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\8. Company Users\bin\Debug\net5.0\ref\8. Company Users.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\8. Company Users\bin\Debug\net5.0\8. Company Users.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\8. Company Users\obj\Debug\net5.0\8. Company Users.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\8. Company Users\obj\Debug\net5.0\8. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\8. Company Users\obj\Debug\net5.0\8. Company Users.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\8. Company Users\obj\Debug\net5.0\8. Company Users.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\8. Company Users\obj\Debug\net5.0\8. Company Users.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\8. Company Users\obj\Debug\net5.0\8. Company Users.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\8. Company Users\obj\Debug\net5.0\ref\8. Company Users.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\8. Company Users\obj\Debug\net5.0\8. Company Users.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Associative Arrays\8. Company Users\obj\Debug\net5.0\8. Company Users.genruntimeconfig.cache
