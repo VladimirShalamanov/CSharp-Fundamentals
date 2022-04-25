@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\3. MOBA Challenger\bin\Debug\net5.0\3. MOBA Challenger.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\3. MOBA Challenger\bin\Debug\net5.0\3. MOBA Challenger.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\3. MOBA Challenger\bin\Debug\net5.0\3. MOBA Challenger.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\3. MOBA Challenger\bin\Debug\net5.0\3. MOBA Challenger.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\3. MOBA Challenger\bin\Debug\net5.0\3. MOBA Challenger.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\3. MOBA Challenger\bin\Debug\net5.0\ref\3. MOBA Challenger.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\3. MOBA Challenger\bin\Debug\net5.0\3. MOBA Challenger.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\3. MOBA Challenger\obj\Debug\net5.0\3. MOBA Challenger.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\3. MOBA Challenger\obj\Debug\net5.0\3. MOBA Challenger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\3. MOBA Challenger\obj\Debug\net5.0\3. MOBA Challenger.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\3. MOBA Challenger\obj\Debug\net5.0\3. MOBA Challenger.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\3. MOBA Challenger\obj\Debug\net5.0\3. MOBA Challenger.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\3. MOBA Challenger\obj\Debug\net5.0\3. MOBA Challenger.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\3. MOBA Challenger\obj\Debug\net5.0\ref\3. MOBA Challenger.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\3. MOBA Challenger\obj\Debug\net5.0\3. MOBA Challenger.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\3. MOBA Challenger\obj\Debug\net5.0\3. MOBA Challenger.genruntimeconfig.cache

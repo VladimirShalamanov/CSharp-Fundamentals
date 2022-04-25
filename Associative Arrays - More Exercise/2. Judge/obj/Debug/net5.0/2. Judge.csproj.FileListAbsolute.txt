@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\2. Judge\bin\Debug\net5.0\2. Judge.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\2. Judge\bin\Debug\net5.0\2. Judge.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\2. Judge\bin\Debug\net5.0\2. Judge.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\2. Judge\bin\Debug\net5.0\2. Judge.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\2. Judge\bin\Debug\net5.0\2. Judge.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\2. Judge\bin\Debug\net5.0\ref\2. Judge.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\2. Judge\bin\Debug\net5.0\2. Judge.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\2. Judge\obj\Debug\net5.0\2. Judge.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\2. Judge\obj\Debug\net5.0\2. Judge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\2. Judge\obj\Debug\net5.0\2. Judge.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\2. Judge\obj\Debug\net5.0\2. Judge.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\2. Judge\obj\Debug\net5.0\2. Judge.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\2. Judge\obj\Debug\net5.0\2. Judge.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\2. Judge\obj\Debug\net5.0\ref\2. Judge.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\2. Judge\obj\Debug\net5.0\2. Judge.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Associative Arrays\2. Judge\obj\Debug\net5.0\2. Judge.genruntimeconfig.cache
