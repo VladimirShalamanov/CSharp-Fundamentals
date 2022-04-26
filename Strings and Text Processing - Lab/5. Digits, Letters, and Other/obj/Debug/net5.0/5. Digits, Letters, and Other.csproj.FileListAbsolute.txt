@@ -1,0 +1,15 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\5. Digits, Letters, and Other\bin\Debug\net5.0\5. Digits, Letters, and Other.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\5. Digits, Letters, and Other\bin\Debug\net5.0\5. Digits, Letters, and Other.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\5. Digits, Letters, and Other\bin\Debug\net5.0\5. Digits, Letters, and Other.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\5. Digits, Letters, and Other\bin\Debug\net5.0\5. Digits, Letters, and Other.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\5. Digits, Letters, and Other\bin\Debug\net5.0\5. Digits, Letters, and Other.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\5. Digits, Letters, and Other\bin\Debug\net5.0\ref\5. Digits, Letters, and Other.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\5. Digits, Letters, and Other\bin\Debug\net5.0\5. Digits, Letters, and Other.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\5. Digits, Letters, and Other\obj\Debug\net5.0\5. Digits, Letters, and Other.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\5. Digits, Letters, and Other\obj\Debug\net5.0\5. Digits, Letters, and Other.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\5. Digits, Letters, and Other\obj\Debug\net5.0\5. Digits, Letters, and Other.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\5. Digits, Letters, and Other\obj\Debug\net5.0\5. Digits, Letters, and Other.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\5. Digits, Letters, and Other\obj\Debug\net5.0\5. Digits, Letters, and Other.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\5. Digits, Letters, and Other\obj\Debug\net5.0\ref\5. Digits, Letters, and Other.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\5. Digits, Letters, and Other\obj\Debug\net5.0\5. Digits, Letters, and Other.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\5. Digits, Letters, and Other\obj\Debug\net5.0\5. Digits, Letters, and Other.genruntimeconfig.cache

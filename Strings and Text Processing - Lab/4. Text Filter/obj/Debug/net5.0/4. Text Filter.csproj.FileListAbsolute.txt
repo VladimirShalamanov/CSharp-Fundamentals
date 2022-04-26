@@ -1,0 +1,15 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\4. Text Filter\bin\Debug\net5.0\4. Text Filter.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\4. Text Filter\bin\Debug\net5.0\4. Text Filter.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\4. Text Filter\bin\Debug\net5.0\4. Text Filter.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\4. Text Filter\bin\Debug\net5.0\4. Text Filter.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\4. Text Filter\bin\Debug\net5.0\4. Text Filter.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\4. Text Filter\bin\Debug\net5.0\ref\4. Text Filter.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\4. Text Filter\bin\Debug\net5.0\4. Text Filter.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\4. Text Filter\obj\Debug\net5.0\4. Text Filter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\4. Text Filter\obj\Debug\net5.0\4. Text Filter.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\4. Text Filter\obj\Debug\net5.0\4. Text Filter.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\4. Text Filter\obj\Debug\net5.0\4. Text Filter.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\4. Text Filter\obj\Debug\net5.0\4. Text Filter.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\4. Text Filter\obj\Debug\net5.0\ref\4. Text Filter.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\4. Text Filter\obj\Debug\net5.0\4. Text Filter.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\4. Text Filter\obj\Debug\net5.0\4. Text Filter.genruntimeconfig.cache
