@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\3. Substring\bin\Debug\net5.0\3. Substring.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\3. Substring\bin\Debug\net5.0\3. Substring.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\3. Substring\bin\Debug\net5.0\3. Substring.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\3. Substring\bin\Debug\net5.0\3. Substring.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\3. Substring\bin\Debug\net5.0\3. Substring.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\3. Substring\bin\Debug\net5.0\ref\3. Substring.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\3. Substring\bin\Debug\net5.0\3. Substring.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\3. Substring\obj\Debug\net5.0\ref\3. Substring.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\2. Repeat Strings\bin\Debug\net5.0\ref\2. Repeat Strings.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\2. Repeat Strings\obj\Debug\net5.0\ref\2. Repeat Strings.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Strings and Text Processing\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.genruntimeconfig.cache
