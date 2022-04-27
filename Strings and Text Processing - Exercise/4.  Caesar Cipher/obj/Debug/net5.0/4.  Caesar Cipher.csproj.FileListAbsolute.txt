@@ -1,0 +1,15 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\4.  Caesar Cipher\bin\Debug\net5.0\4.  Caesar Cipher.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\4.  Caesar Cipher\bin\Debug\net5.0\4.  Caesar Cipher.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\4.  Caesar Cipher\bin\Debug\net5.0\4.  Caesar Cipher.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\4.  Caesar Cipher\bin\Debug\net5.0\4.  Caesar Cipher.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\4.  Caesar Cipher\bin\Debug\net5.0\4.  Caesar Cipher.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\4.  Caesar Cipher\bin\Debug\net5.0\ref\4.  Caesar Cipher.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\4.  Caesar Cipher\bin\Debug\net5.0\4.  Caesar Cipher.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\4.  Caesar Cipher\obj\Debug\net5.0\4.  Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\4.  Caesar Cipher\obj\Debug\net5.0\4.  Caesar Cipher.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\4.  Caesar Cipher\obj\Debug\net5.0\4.  Caesar Cipher.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\4.  Caesar Cipher\obj\Debug\net5.0\4.  Caesar Cipher.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\4.  Caesar Cipher\obj\Debug\net5.0\4.  Caesar Cipher.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\4.  Caesar Cipher\obj\Debug\net5.0\ref\4.  Caesar Cipher.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\4.  Caesar Cipher\obj\Debug\net5.0\4.  Caesar Cipher.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\4.  Caesar Cipher\obj\Debug\net5.0\4.  Caesar Cipher.genruntimeconfig.cache

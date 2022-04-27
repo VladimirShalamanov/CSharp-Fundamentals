@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\5.  Multiply Big Number\bin\Debug\net5.0\5.  Multiply Big Number.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\5.  Multiply Big Number\bin\Debug\net5.0\5.  Multiply Big Number.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\5.  Multiply Big Number\bin\Debug\net5.0\5.  Multiply Big Number.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\5.  Multiply Big Number\bin\Debug\net5.0\5.  Multiply Big Number.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\5.  Multiply Big Number\bin\Debug\net5.0\5.  Multiply Big Number.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\5.  Multiply Big Number\bin\Debug\net5.0\ref\5.  Multiply Big Number.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\5.  Multiply Big Number\bin\Debug\net5.0\5.  Multiply Big Number.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\5.  Multiply Big Number\obj\Debug\net5.0\5.  Multiply Big Number.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\5.  Multiply Big Number\obj\Debug\net5.0\5.  Multiply Big Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\5.  Multiply Big Number\obj\Debug\net5.0\5.  Multiply Big Number.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\5.  Multiply Big Number\obj\Debug\net5.0\5.  Multiply Big Number.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\5.  Multiply Big Number\obj\Debug\net5.0\5.  Multiply Big Number.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\5.  Multiply Big Number\obj\Debug\net5.0\5.  Multiply Big Number.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\5.  Multiply Big Number\obj\Debug\net5.0\ref\5.  Multiply Big Number.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\5.  Multiply Big Number\obj\Debug\net5.0\5.  Multiply Big Number.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\5.  Multiply Big Number\obj\Debug\net5.0\5.  Multiply Big Number.genruntimeconfig.cache
