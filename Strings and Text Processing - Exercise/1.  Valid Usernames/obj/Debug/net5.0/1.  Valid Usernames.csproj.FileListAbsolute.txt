@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\1.  Valid Usernames\bin\Debug\net5.0\1.  Valid Usernames.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\1.  Valid Usernames\bin\Debug\net5.0\1.  Valid Usernames.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\1.  Valid Usernames\bin\Debug\net5.0\1.  Valid Usernames.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\1.  Valid Usernames\bin\Debug\net5.0\1.  Valid Usernames.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\1.  Valid Usernames\bin\Debug\net5.0\1.  Valid Usernames.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\1.  Valid Usernames\bin\Debug\net5.0\ref\1.  Valid Usernames.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\1.  Valid Usernames\bin\Debug\net5.0\1.  Valid Usernames.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\1.  Valid Usernames\obj\Debug\net5.0\1.  Valid Usernames.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\1.  Valid Usernames\obj\Debug\net5.0\1.  Valid Usernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\1.  Valid Usernames\obj\Debug\net5.0\1.  Valid Usernames.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\1.  Valid Usernames\obj\Debug\net5.0\1.  Valid Usernames.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\1.  Valid Usernames\obj\Debug\net5.0\1.  Valid Usernames.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\1.  Valid Usernames\obj\Debug\net5.0\1.  Valid Usernames.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\1.  Valid Usernames\obj\Debug\net5.0\ref\1.  Valid Usernames.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\1.  Valid Usernames\obj\Debug\net5.0\1.  Valid Usernames.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\1.  Valid Usernames\obj\Debug\net5.0\1.  Valid Usernames.genruntimeconfig.cache

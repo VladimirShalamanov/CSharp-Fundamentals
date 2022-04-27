@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\2.  Character Multiplier\bin\Debug\net5.0\2.  Character Multiplier.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\2.  Character Multiplier\bin\Debug\net5.0\2.  Character Multiplier.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\2.  Character Multiplier\bin\Debug\net5.0\2.  Character Multiplier.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\2.  Character Multiplier\bin\Debug\net5.0\2.  Character Multiplier.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\2.  Character Multiplier\bin\Debug\net5.0\2.  Character Multiplier.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\2.  Character Multiplier\bin\Debug\net5.0\ref\2.  Character Multiplier.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\2.  Character Multiplier\bin\Debug\net5.0\2.  Character Multiplier.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\2.  Character Multiplier\obj\Debug\net5.0\2.  Character Multiplier.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\2.  Character Multiplier\obj\Debug\net5.0\2.  Character Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\2.  Character Multiplier\obj\Debug\net5.0\2.  Character Multiplier.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\2.  Character Multiplier\obj\Debug\net5.0\2.  Character Multiplier.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\2.  Character Multiplier\obj\Debug\net5.0\2.  Character Multiplier.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\2.  Character Multiplier\obj\Debug\net5.0\2.  Character Multiplier.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\2.  Character Multiplier\obj\Debug\net5.0\ref\2.  Character Multiplier.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\2.  Character Multiplier\obj\Debug\net5.0\2.  Character Multiplier.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\2.  Character Multiplier\obj\Debug\net5.0\2.  Character Multiplier.genruntimeconfig.cache
