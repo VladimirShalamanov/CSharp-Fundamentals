@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\8. Letters Change Numbers\bin\Debug\net5.0\8. Letters Change Numbers.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\8. Letters Change Numbers\bin\Debug\net5.0\8. Letters Change Numbers.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\8. Letters Change Numbers\bin\Debug\net5.0\8. Letters Change Numbers.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\8. Letters Change Numbers\bin\Debug\net5.0\8. Letters Change Numbers.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\8. Letters Change Numbers\bin\Debug\net5.0\8. Letters Change Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\8. Letters Change Numbers\bin\Debug\net5.0\ref\8. Letters Change Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\8. Letters Change Numbers\bin\Debug\net5.0\8. Letters Change Numbers.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\8. Letters Change Numbers\obj\Debug\net5.0\8. Letters Change Numbers.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\8. Letters Change Numbers\obj\Debug\net5.0\8. Letters Change Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\8. Letters Change Numbers\obj\Debug\net5.0\8. Letters Change Numbers.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\8. Letters Change Numbers\obj\Debug\net5.0\8. Letters Change Numbers.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\8. Letters Change Numbers\obj\Debug\net5.0\8. Letters Change Numbers.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\8. Letters Change Numbers\obj\Debug\net5.0\8. Letters Change Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\8. Letters Change Numbers\obj\Debug\net5.0\ref\8. Letters Change Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\8. Letters Change Numbers\obj\Debug\net5.0\8. Letters Change Numbers.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Strings and Text Processing\8. Letters Change Numbers\obj\Debug\net5.0\8. Letters Change Numbers.genruntimeconfig.cache
