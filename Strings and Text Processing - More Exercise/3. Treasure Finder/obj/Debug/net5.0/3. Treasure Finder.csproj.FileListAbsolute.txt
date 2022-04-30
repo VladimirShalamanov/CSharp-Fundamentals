@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\3. Treasure Finder\bin\Debug\net5.0\3. Treasure Finder.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\3. Treasure Finder\bin\Debug\net5.0\3. Treasure Finder.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\3. Treasure Finder\bin\Debug\net5.0\3. Treasure Finder.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\3. Treasure Finder\bin\Debug\net5.0\3. Treasure Finder.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\3. Treasure Finder\bin\Debug\net5.0\3. Treasure Finder.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\3. Treasure Finder\bin\Debug\net5.0\ref\3. Treasure Finder.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\3. Treasure Finder\bin\Debug\net5.0\3. Treasure Finder.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\3. Treasure Finder\obj\Debug\net5.0\3. Treasure Finder.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\3. Treasure Finder\obj\Debug\net5.0\3. Treasure Finder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\3. Treasure Finder\obj\Debug\net5.0\3. Treasure Finder.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\3. Treasure Finder\obj\Debug\net5.0\3. Treasure Finder.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\3. Treasure Finder\obj\Debug\net5.0\3. Treasure Finder.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\3. Treasure Finder\obj\Debug\net5.0\3. Treasure Finder.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\3. Treasure Finder\obj\Debug\net5.0\ref\3. Treasure Finder.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\3. Treasure Finder\obj\Debug\net5.0\3. Treasure Finder.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\3. Treasure Finder\obj\Debug\net5.0\3. Treasure Finder.genruntimeconfig.cache

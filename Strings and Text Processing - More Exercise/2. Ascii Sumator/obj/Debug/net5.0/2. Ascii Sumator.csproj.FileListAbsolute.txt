@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\2. Ascii Sumator\bin\Debug\net5.0\2. Ascii Sumator.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\2. Ascii Sumator\bin\Debug\net5.0\2. Ascii Sumator.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\2. Ascii Sumator\bin\Debug\net5.0\2. Ascii Sumator.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\2. Ascii Sumator\bin\Debug\net5.0\2. Ascii Sumator.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\2. Ascii Sumator\bin\Debug\net5.0\2. Ascii Sumator.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\2. Ascii Sumator\bin\Debug\net5.0\ref\2. Ascii Sumator.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\2. Ascii Sumator\bin\Debug\net5.0\2. Ascii Sumator.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\2. Ascii Sumator\obj\Debug\net5.0\2. Ascii Sumator.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\2. Ascii Sumator\obj\Debug\net5.0\2. Ascii Sumator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\2. Ascii Sumator\obj\Debug\net5.0\2. Ascii Sumator.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\2. Ascii Sumator\obj\Debug\net5.0\2. Ascii Sumator.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\2. Ascii Sumator\obj\Debug\net5.0\2. Ascii Sumator.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\2. Ascii Sumator\obj\Debug\net5.0\2. Ascii Sumator.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\2. Ascii Sumator\obj\Debug\net5.0\ref\2. Ascii Sumator.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\2. Ascii Sumator\obj\Debug\net5.0\2. Ascii Sumator.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\More Exercise - Strings and Text Processing\2. Ascii Sumator\obj\Debug\net5.0\2. Ascii Sumator.genruntimeconfig.cache
