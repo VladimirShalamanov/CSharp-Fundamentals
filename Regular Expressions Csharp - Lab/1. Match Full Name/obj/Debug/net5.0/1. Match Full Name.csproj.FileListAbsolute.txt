@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\1. Match Full Name\bin\Debug\net5.0\1. Match Full Name.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\1. Match Full Name\bin\Debug\net5.0\1. Match Full Name.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\1. Match Full Name\bin\Debug\net5.0\1. Match Full Name.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\1. Match Full Name\bin\Debug\net5.0\1. Match Full Name.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\1. Match Full Name\bin\Debug\net5.0\1. Match Full Name.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\1. Match Full Name\bin\Debug\net5.0\ref\1. Match Full Name.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\1. Match Full Name\bin\Debug\net5.0\1. Match Full Name.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\1. Match Full Name\obj\Debug\net5.0\1. Match Full Name.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\1. Match Full Name\obj\Debug\net5.0\1. Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\1. Match Full Name\obj\Debug\net5.0\1. Match Full Name.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\1. Match Full Name\obj\Debug\net5.0\1. Match Full Name.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\1. Match Full Name\obj\Debug\net5.0\1. Match Full Name.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\1. Match Full Name\obj\Debug\net5.0\1. Match Full Name.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\1. Match Full Name\obj\Debug\net5.0\ref\1. Match Full Name.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\1. Match Full Name\obj\Debug\net5.0\1. Match Full Name.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\1. Match Full Name\obj\Debug\net5.0\1. Match Full Name.genruntimeconfig.cache

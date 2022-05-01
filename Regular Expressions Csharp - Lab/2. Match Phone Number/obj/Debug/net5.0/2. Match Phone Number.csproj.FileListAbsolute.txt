@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\2. Match Phone Number\bin\Debug\net5.0\2. Match Phone Number.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\2. Match Phone Number\bin\Debug\net5.0\2. Match Phone Number.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\2. Match Phone Number\bin\Debug\net5.0\2. Match Phone Number.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\2. Match Phone Number\bin\Debug\net5.0\2. Match Phone Number.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\2. Match Phone Number\bin\Debug\net5.0\2. Match Phone Number.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\2. Match Phone Number\bin\Debug\net5.0\ref\2. Match Phone Number.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\2. Match Phone Number\bin\Debug\net5.0\2. Match Phone Number.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\2. Match Phone Number\obj\Debug\net5.0\2. Match Phone Number.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\2. Match Phone Number\obj\Debug\net5.0\2. Match Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\2. Match Phone Number\obj\Debug\net5.0\2. Match Phone Number.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\2. Match Phone Number\obj\Debug\net5.0\2. Match Phone Number.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\2. Match Phone Number\obj\Debug\net5.0\2. Match Phone Number.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\2. Match Phone Number\obj\Debug\net5.0\2. Match Phone Number.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\2. Match Phone Number\obj\Debug\net5.0\ref\2. Match Phone Number.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\2. Match Phone Number\obj\Debug\net5.0\2. Match Phone Number.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Lab - Regular Expressions Csharp\2. Match Phone Number\obj\Debug\net5.0\2. Match Phone Number.genruntimeconfig.cache
