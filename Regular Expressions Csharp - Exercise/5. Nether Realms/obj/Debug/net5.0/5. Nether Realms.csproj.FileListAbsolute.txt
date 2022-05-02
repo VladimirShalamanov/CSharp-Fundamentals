@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\5. Nether Realms\bin\Debug\net5.0\5. Nether Realms.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\5. Nether Realms\bin\Debug\net5.0\5. Nether Realms.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\5. Nether Realms\bin\Debug\net5.0\5. Nether Realms.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\5. Nether Realms\bin\Debug\net5.0\5. Nether Realms.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\5. Nether Realms\bin\Debug\net5.0\5. Nether Realms.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\5. Nether Realms\bin\Debug\net5.0\ref\5. Nether Realms.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\5. Nether Realms\bin\Debug\net5.0\5. Nether Realms.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\5. Nether Realms\obj\Debug\net5.0\5. Nether Realms.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\5. Nether Realms\obj\Debug\net5.0\5. Nether Realms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\5. Nether Realms\obj\Debug\net5.0\5. Nether Realms.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\5. Nether Realms\obj\Debug\net5.0\5. Nether Realms.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\5. Nether Realms\obj\Debug\net5.0\5. Nether Realms.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\5. Nether Realms\obj\Debug\net5.0\5. Nether Realms.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\5. Nether Realms\obj\Debug\net5.0\ref\5. Nether Realms.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\5. Nether Realms\obj\Debug\net5.0\5. Nether Realms.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\5. Nether Realms\obj\Debug\net5.0\5. Nether Realms.genruntimeconfig.cache
