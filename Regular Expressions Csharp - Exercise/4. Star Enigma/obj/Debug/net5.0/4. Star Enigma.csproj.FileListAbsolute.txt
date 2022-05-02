@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\4. Star Enigma\bin\Debug\net5.0\4. Star Enigma.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\4. Star Enigma\bin\Debug\net5.0\4. Star Enigma.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\4. Star Enigma\bin\Debug\net5.0\4. Star Enigma.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\4. Star Enigma\bin\Debug\net5.0\4. Star Enigma.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\4. Star Enigma\bin\Debug\net5.0\4. Star Enigma.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\4. Star Enigma\bin\Debug\net5.0\ref\4. Star Enigma.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\4. Star Enigma\bin\Debug\net5.0\4. Star Enigma.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\4. Star Enigma\obj\Debug\net5.0\4. Star Enigma.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\4. Star Enigma\obj\Debug\net5.0\4. Star Enigma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\4. Star Enigma\obj\Debug\net5.0\4. Star Enigma.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\4. Star Enigma\obj\Debug\net5.0\4. Star Enigma.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\4. Star Enigma\obj\Debug\net5.0\4. Star Enigma.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\4. Star Enigma\obj\Debug\net5.0\4. Star Enigma.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\4. Star Enigma\obj\Debug\net5.0\ref\4. Star Enigma.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\4. Star Enigma\obj\Debug\net5.0\4. Star Enigma.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\4. Star Enigma\obj\Debug\net5.0\4. Star Enigma.genruntimeconfig.cache

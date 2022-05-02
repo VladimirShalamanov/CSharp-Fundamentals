@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\3. SoftUni Bar Income\bin\Debug\net5.0\3. SoftUni Bar Income.exe
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\3. SoftUni Bar Income\bin\Debug\net5.0\3. SoftUni Bar Income.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\3. SoftUni Bar Income\bin\Debug\net5.0\3. SoftUni Bar Income.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\3. SoftUni Bar Income\bin\Debug\net5.0\3. SoftUni Bar Income.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\3. SoftUni Bar Income\bin\Debug\net5.0\3. SoftUni Bar Income.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\3. SoftUni Bar Income\bin\Debug\net5.0\ref\3. SoftUni Bar Income.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\3. SoftUni Bar Income\bin\Debug\net5.0\3. SoftUni Bar Income.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\3. SoftUni Bar Income\obj\Debug\net5.0\3. SoftUni Bar Income.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\3. SoftUni Bar Income\obj\Debug\net5.0\3. SoftUni Bar Income.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\3. SoftUni Bar Income\obj\Debug\net5.0\3. SoftUni Bar Income.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\3. SoftUni Bar Income\obj\Debug\net5.0\3. SoftUni Bar Income.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\3. SoftUni Bar Income\obj\Debug\net5.0\3. SoftUni Bar Income.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\3. SoftUni Bar Income\obj\Debug\net5.0\3. SoftUni Bar Income.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\3. SoftUni Bar Income\obj\Debug\net5.0\ref\3. SoftUni Bar Income.dll
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\3. SoftUni Bar Income\obj\Debug\net5.0\3. SoftUni Bar Income.pdb
+D:\Документи\twa onowa\_SOFTUNI\Fundamentals\Exercise - Regular Expressions\3. SoftUni Bar Income\obj\Debug\net5.0\3. SoftUni Bar Income.genruntimeconfig.cache
